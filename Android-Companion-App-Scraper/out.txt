@@ -1,0 +1,2191 @@
+Apps with keywords:
+----- Most likely companion apps ---------
+	Title: ecobee
+		- URL: https://play.google.com/store/apps/details?id=com.ecobee.athenamobile
+	Title: Eco4Life Smart Home Controller
+		- URL: https://play.google.com/store/apps/details?id=com.kelement.smart
+	Title: Sengled Home
+		- URL: https://play.google.com/store/apps/details?id=com.sengled.life2
+	Title: Nedis SmartLife
+		- URL: https://play.google.com/store/apps/details?id=com.nedis.smartlife
+	Title: iotty Smart Home
+		- URL: https://play.google.com/store/apps/details?id=com.dynamicait.iotty
+	Title: PowerIP (for Aviosys IP Power and Sonoff Tasmota)
+		- URL: https://play.google.com/store/apps/details?id=com.amapps.android.PowerIP
+	Title: Eufy Security
+		- URL: https://play.google.com/store/apps/details?id=com.oceanwing.battery.cam
+	Title: Hue Control
+		- URL: https://play.google.com/store/apps/details?id=com.beuzenberg.huecontrol
+	Title: IoT MQTT Panel
+		- URL: https://play.google.com/store/apps/details?id=snr.lab.iotmqttpanel.prod
+	Title: PlusMinus - Smart Home
+		- URL: https://play.google.com/store/apps/details?id=com.plus.ai
+	Title: eWeLink - Smart Home
+		- URL: https://play.google.com/store/apps/details?id=com.coolkit
+	Title: MQTT Dash (IoT, Smart Home)
+		- URL: https://play.google.com/store/apps/details?id=net.routix.mqttdash
+	Title: Philips Hue Bluetooth
+		- URL: https://play.google.com/store/apps/details?id=com.signify.hue.blue
+	Title: AutomationManager for IoT
+		- URL: https://play.google.com/store/apps/details?id=mpp.android.wemo
+	Title: hueDynamic for Philips Hue
+		- URL: https://play.google.com/store/apps/details?id=huedynamiciap.android
+	Title: Broadlink RM Plugin
+		- URL: https://play.google.com/store/apps/details?id=us.originally.tasker
+	Title: hueManic 💡Philips Hue & IKEA TRÅDFRI made dynamic
+		- URL: https://play.google.com/store/apps/details?id=com.urbandroid.hue
+	Title: Serverless Bluetooth Keyboard & Mouse Premium
+		- URL: https://play.google.com/store/apps/details?id=io.appground.blekpremium
+	Title: ecobee
+		- URL: https://play.google.com/store/apps/details?id=com.ecobee.athenamobile
+	Title: ecobee Wrap
+		- URL: https://play.google.com/store/apps/details?id=com.supremevue.ecobeewrap
+	Title: huerray! Philips Hue and LIFX
+		- URL: https://play.google.com/store/apps/details?id=de.johanneslauber.android.hue
+	Title: Pro1 Connect
+		- URL: https://play.google.com/store/apps/details?id=com.pro1.thermostat
+	Title: IoT OnOff®
+		- URL: https://play.google.com/store/apps/details?id=goliath.mobile.device.iotonoff
+	Title: tado°
+		- URL: https://play.google.com/store/apps/details?id=com.tado
+	Title: SimpliSafe Home Security App
+		- URL: https://play.google.com/store/apps/details?id=com.simplisafe.mobile
+	Title: Kuna Home Security
+		- URL: https://play.google.com/store/apps/details?id=com.mobics.kuna
+	Title: Canary - Smart Home Security
+		- URL: https://play.google.com/store/apps/details?id=is.yranac.canary
+	Title: IoT MQTT Panel Pro
+		- URL: https://play.google.com/store/apps/details?id=snr.lab.iotmqttpanel.prod.pro
+	Title: Vision - Smart Voice Assistant
+		- URL: https://play.google.com/store/apps/details?id=com.visionforhome
+	Title: BroadLink - Universal Remote
+		- URL: https://play.google.com/store/apps/details?id=cn.com.broadlink.econtrol.international
+	Title: SoSecure: Personal Security & Personal Safety App
+		- URL: https://play.google.com/store/apps/details?id=com.adt.sosecure.android
+	Title: Pulseway
+		- URL: https://play.google.com/store/apps/details?id=com.mobilepcmonitor
+	Title: Eco4Life Smart Home Controller
+		- URL: https://play.google.com/store/apps/details?id=com.kelement.smart
+	Title: Ambrogio Remote
+		- URL: https://play.google.com/store/apps/details?id=it.centrosistemi.ambrogioremote
+	Title: iCLEBO O5
+		- URL: https://play.google.com/store/apps/details?id=com.yujinrobot.iclebo
+	Title: Printoid - Remote for OctoPrint [PREMIUM]
+		- URL: https://play.google.com/store/apps/details?id=fr.yochi76.printoid.phones.premium
+	Title: Cox Homelife
+		- URL: https://play.google.com/store/apps/details?id=com.cox.homesecurity
+	Title: Embr Wave
+		- URL: https://play.google.com/store/apps/details?id=com.embrlabs.embrwave
+	Title: Koogeek - Smart Health
+		- URL: https://play.google.com/store/apps/details?id=com.tomtop.smart
+	Title: Nedis SmartLife
+		- URL: https://play.google.com/store/apps/details?id=com.nedis.smartlife
+	Title: ORVIBO Home
+		- URL: https://play.google.com/store/apps/details?id=com.orvibo.homemate
+	Title: HOBOT
+		- URL: https://play.google.com/store/apps/details?id=tw.com.hobot.remote
+	Title: Sears – Shop smarter, faster & save more
+		- URL: https://play.google.com/store/apps/details?id=com.sears.android
+	Title: iotty Smart Home
+		- URL: https://play.google.com/store/apps/details?id=com.dynamicait.iotty
+	Title: iComfort Thermostat
+		- URL: https://play.google.com/store/apps/details?id=com.lennox.ic3.mobile.droid
+	Title: myenergi
+		- URL: https://play.google.com/store/apps/details?id=com.myenergi
+	Title: UbiBot - IoT Console
+		- URL: https://play.google.com/store/apps/details?id=com.datadudu.ubibot
+	Title: LineSmarts
+		- URL: https://play.google.com/store/apps/details?id=com.linesmarts.linesmartsfree
+	Title: Main Station
+		- URL: https://play.google.com/store/apps/details?id=de.maerklin.app.mainstation
+	Title: ProsaLink
+		- URL: https://play.google.com/store/apps/details?id=com.danfoss.prosa.prosalink
+	Title: SmartThings
+		- URL: https://play.google.com/store/apps/details?id=com.samsung.android.oneconnect
+	Title: Blynk - IoT for Arduino, ESP8266/32, Raspberry Pi
+		- URL: https://play.google.com/store/apps/details?id=cc.blynk
+	Title: Somfy Protect
+		- URL: https://play.google.com/store/apps/details?id=com.myfox.android.mss
+	Title: AutoRemote
+		- URL: https://play.google.com/store/apps/details?id=com.joaomgcd.autoremote
+	Title: Companion - For Unraid
+		- URL: https://play.google.com/store/apps/details?id=uk.liquidsoftware.companion
+	Title: Printoid - Remote for OctoPrint [LITE]
+		- URL: https://play.google.com/store/apps/details?id=fr.yochi76.printoid.phones.trial
+	Title: Eufy Security
+		- URL: https://play.google.com/store/apps/details?id=com.oceanwing.battery.cam
+	Title: iSecurity+
+		- URL: https://play.google.com/store/apps/details?id=com.seedonk.android.androidisecurityplus
+	Title: Swann Security
+		- URL: https://play.google.com/store/apps/details?id=com.swannsecurity
+	Title: Altec Smart Security System
+		- URL: https://play.google.com/store/apps/details?id=com.altec.shsm
+	Title: Alarm.com
+		- URL: https://play.google.com/store/apps/details?id=com.alarm.alarmmobile.android
+	Title: Blink Home Monitor
+		- URL: https://play.google.com/store/apps/details?id=com.immediasemi.android.blink
+	Title: Brinks Home Security
+		- URL: https://play.google.com/store/apps/details?id=com.alarm.alarmmobile.android.moni
+	Title: iLightShow for Philips Hue / LIFX / Nanoleaf
+		- URL: https://play.google.com/store/apps/details?id=com.nanjoran.ilightshow
+	Title: Bascom
+		- URL: https://play.google.com/store/apps/details?id=com.raysharp.bascom
+	Title: HWDVCam
+		- URL: https://play.google.com/store/apps/details?id=com.juyi.camera
+	Title: Cloud Cam
+		- URL: https://play.google.com/store/apps/details?id=net.simplylogic.android.cloudcam
+	Title: Smart IR Remote - AnyMote
+		- URL: https://play.google.com/store/apps/details?id=com.remotefairy
+	Title: MagicQ Remote Control
+		- URL: https://play.google.com/store/apps/details?id=com.TinRaven.MagicQQT
+	Title: RCoid Pro - Remote Control
+		- URL: https://play.google.com/store/apps/details?id=de.harrygr.rcoidpro
+	Title: TV (Apple) Remote Control
+		- URL: https://play.google.com/store/apps/details?id=ir.remote.control.appletv
+	Title: Peerlyst
+		- URL: https://play.google.com/store/apps/details?id=com.peerlyst.peerlyst
+	Title: Unified Remote Full
+		- URL: https://play.google.com/store/apps/details?id=com.Relmtech.RemotePaid
+	Title: Smart Remote Control for Samsung TVs
+		- URL: https://play.google.com/store/apps/details?id=com.quanticapps.remotetvs
+	Title: Unified Remote
+		- URL: https://play.google.com/store/apps/details?id=com.Relmtech.Remote
+	Title: MobiLinc X
+		- URL: https://play.google.com/store/apps/details?id=com.mobileintegratedsolutions.mobilincx
+	Title: Frontier Multi-Device Security
+		- URL: https://play.google.com/store/apps/details?id=com.fsecure.ms.frontier.sa2
+	Title: Lepro LampUX
+		- URL: https://play.google.com/store/apps/details?id=com.lampux.ledbrighter
+	Title: Thunderstorm for Hue
+		- URL: https://play.google.com/store/apps/details?id=io.scottdodson.thunderstorm.hue
+	Title: Soundstorm for Hue
+		- URL: https://play.google.com/store/apps/details?id=io.scottdodson.soundstorm.hue
+	Title: AWS IoT Button Dev
+		- URL: https://play.google.com/store/apps/details?id=com.amazonaws.iotbutton
+	Title: AWS IoT 1-Click
+		- URL: https://play.google.com/store/apps/details?id=com.amazonaws.oneclick
+	Title: Home-IOT
+		- URL: https://play.google.com/store/apps/details?id=net.ezhome.smarthome
+	Title: DEFA
+		- URL: https://play.google.com/store/apps/details?id=com.est.defa
+	Title: SiteService
+		- URL: https://play.google.com/store/apps/details?id=air.com.danfoss.koolapp.siteservice
+	Title: Remote Desktop 8
+		- URL: https://play.google.com/store/apps/details?id=com.microsoft.rdc.android
+	Title: Mobile Data Collection - Scan-IT to Office
+		- URL: https://play.google.com/store/apps/details?id=com.tecit.android.bluescanner.office
+	Title: Remote Desktop
+		- URL: https://play.google.com/store/apps/details?id=com.microsoft.rdc.androidx
+	Title: Dynamics 365 Remote Assist
+		- URL: https://play.google.com/store/apps/details?id=com.microsoft.ramobile
+	Title: PC Remote VIP
+		- URL: https://play.google.com/store/apps/details?id=com.monect.vipportable
+	Title: hueDynamic for Philips Hue Pro
+		- URL: https://play.google.com/store/apps/details?id=huedynamic.android
+	Title: Hue Disco
+		- URL: https://play.google.com/store/apps/details?id=nl.ijsdesign.huedisco
+	Title: Prismify - perfect sync for Philips Hue & Spotify
+		- URL: https://play.google.com/store/apps/details?id=xyz.angeldev.flux
+	Title: Philips Field Apps
+		- URL: https://play.google.com/store/apps/details?id=com.philips.fieldapps
+	Title: Tradfri Melodi - HomeSmart Lights dancing to music
+		- URL: https://play.google.com/store/apps/details?id=com.tradfrilux.melodi
+	Title: Kasa Smart
+		- URL: https://play.google.com/store/apps/details?id=com.tplink.kasa_android
+	Title: Comfort - GE Appliances
+		- URL: https://play.google.com/store/apps/details?id=com.ge.comfort
+	Title: Honeywell Home
+		- URL: https://play.google.com/store/apps/details?id=com.honeywell.android.lyric
+	Title: Homeguardcare
+		- URL: https://play.google.com/store/apps/details?id=homeguard.p2pwificam.client
+	Title: Shiftboard People Scheduling
+		- URL: https://play.google.com/store/apps/details?id=com.shiftboard.android.app
+	Title: IoT ThingSpeak Monitor Widget
+		- URL: https://play.google.com/store/apps/details?id=ua.livi.thingspeakmonitor
+	Title: PC WakeUp PRO "Wake on Lan"
+		- URL: https://play.google.com/store/apps/details?id=ru.freask.pcwakeuppro
+	Title: Paxton Connect
+		- URL: https://play.google.com/store/apps/details?id=uk.co.paxton.PaxtonConnect
+	Title: Aprilaire Wi-Fi Thermostat App
+		- URL: https://play.google.com/store/apps/details?id=com.aprilaire.remoteaccess
+	Title: Ooma Smart Security
+		- URL: https://play.google.com/store/apps/details?id=com.ooma.hm
+	Title: FreeControl
+		- URL: https://play.google.com/store/apps/details?id=com.homeguardapp
+	Title: Hue Essentials - Philips Hue & TRÅDFRI
+		- URL: https://play.google.com/store/apps/details?id=com.superthomaslab.hueessentials
+	Title: Brilliant - Smart Home Control
+		- URL: https://play.google.com/store/apps/details?id=tech.brilliant.brilliant
+	Title: Total Connect Comfort
+		- URL: https://play.google.com/store/apps/details?id=com.honeywell.mobile.android.totalComfort
+	Title: R4S Home
+		- URL: https://play.google.com/store/apps/details?id=com.readyforsky.app
+	Title: KLM – Book flights and manage your trip
+		- URL: https://play.google.com/store/apps/details?id=com.afklm.mobile.android.gomobile.klm
+	Title: TravelPirates Top Travel Deals
+		- URL: https://play.google.com/store/apps/details?id=com.tippingcanoe.urlaubspiraten
+	Title: Holidayguru » Travel Deals
+		- URL: https://play.google.com/store/apps/details?id=de.trimexa.urlaubsguru
+	Title: Boost Safe & Found
+		- URL: https://play.google.com/store/apps/details?id=com.boost.safeandfound
+	Title: Somfy Protect
+		- URL: https://play.google.com/store/apps/details?id=com.myfox.android.mss
+	Title: Telegram
+		- URL: https://play.google.com/store/apps/details?id=org.telegram.messenger
+	Title: musegear finder 2
+		- URL: https://play.google.com/store/apps/details?id=net.musegearfinder.app
+	Title: Ajax PRO: Tool For Engineers
+		- URL: https://play.google.com/store/apps/details?id=com.ajaxsystems.pro
+	Title: Skyscanner – cheap flights, hotels and car rental
+		- URL: https://play.google.com/store/apps/details?id=net.skyscanner.android.main
+	Title: Agoda
+		- URL: https://play.google.com/store/apps/details?id=com.agoda.mobile.consumer
+	Title: Priceline - Travel Deals on Hotels, Flights & Cars
+		- URL: https://play.google.com/store/apps/details?id=com.priceline.android.negotiator
+	Title: KAYAK Flights, Hotels & Cars
+		- URL: https://play.google.com/store/apps/details?id=com.kayak.android
+	Title: Weekly Hotel Deals: Extended Stay Hotels & Motels
+		- URL: https://play.google.com/store/apps/details?id=com.weekhtljig.weeklydealshotel
+	Title: Cheap Flights App - FareFirst
+		- URL: https://play.google.com/store/apps/details?id=com.cheapflightsapp.flightbooking
+	Title: Omio: Book Train, Bus & Flight Tickets
+		- URL: https://play.google.com/store/apps/details?id=com.goeuro.rosie
+	Title: CheapOair: Cheap Flights, Cheap Hotels Booking App
+		- URL: https://play.google.com/store/apps/details?id=com.fp.cheapoair
+	Title: Cheap flights and airline tickets — Jetradar
+		- URL: https://play.google.com/store/apps/details?id=com.jetradar
+	Title: Turismocity Vuelos Baratos
+		- URL: https://play.google.com/store/apps/details?id=com.grupodc.turismocity
+	Title: Device Info : View Device Information
+		- URL: https://play.google.com/store/apps/details?id=com.ytheekshana.deviceinfo
+	Title: AirDroid: Remote access & File
+		- URL: https://play.google.com/store/apps/details?id=com.sand.airdroid
+	Title: TeamViewer for Remote Control
+		- URL: https://play.google.com/store/apps/details?id=com.teamviewer.teamviewer.market.mobile
+	Title: Intune Company Portal
+		- URL: https://play.google.com/store/apps/details?id=com.microsoft.windowsintune.companyportal
+	Title: Mobile Security: VPN Proxy & Anti Theft Safe WiFi
+		- URL: https://play.google.com/store/apps/details?id=com.wsandroid.suite
+	Title: File Commander - File Manager & Free Cloud
+		- URL: https://play.google.com/store/apps/details?id=com.mobisystems.fileman
+	Title: Last Minute Flights and Hotels App
+		- URL: https://play.google.com/store/apps/details?id=com.lastminuteflights.hotels
+	Title: Duo Mobile
+		- URL: https://play.google.com/store/apps/details?id=com.duosecurity.duomobile
+	Title: UniFi Protect
+		- URL: https://play.google.com/store/apps/details?id=com.ubnt.unifi.protect
+	Title: Reolink
+		- URL: https://play.google.com/store/apps/details?id=com.mcu.reolink
+	Title: Logi Circle
+		- URL: https://play.google.com/store/apps/details?id=com.logitech.circle
+	Title: Security Camera CZ
+		- URL: https://play.google.com/store/apps/details?id=cz.scamera.securitycamera
+	Title: Verifyle
+		- URL: https://play.google.com/store/apps/details?id=com.verifyle.android
+	Title: Bitdefender Central
+		- URL: https://play.google.com/store/apps/details?id=com.bitdefender.centralmgmt
+	Title: Bitdefender Antivirus Free
+		- URL: https://play.google.com/store/apps/details?id=com.bitdefender.antivirus
+	Title: Mobile Security & Antivirus
+		- URL: https://play.google.com/store/apps/details?id=com.trendmicro.tmmspersonal
+	Title: G DATA Mobile Security Light
+		- URL: https://play.google.com/store/apps/details?id=de.gdata.mobilesecurity
+	Title: Kaspersky Endpoint Security & Device Management
+		- URL: https://play.google.com/store/apps/details?id=com.kaspersky.kes
+	Title: Safe Connect VPN: Proxy Wi-Fi Hotspot, Secure VPN
+		- URL: https://play.google.com/store/apps/details?id=com.mcafee.safeconnect.android
+	Title: Parental Control : Screen Time & Location Tracker
+		- URL: https://play.google.com/store/apps/details?id=com.bitguardian.parentalcontrol
+	Title: ZoneAlarm Mobile Security & Antivirus Protection
+		- URL: https://play.google.com/store/apps/details?id=com.checkpoint.zonealarm.mobilesecurity
+	Title: McAfee® Security for T-Mobile
+		- URL: https://play.google.com/store/apps/details?id=com.wsandroid.suite.tmobile
+	Title: Bit Guardian Parental Control - For Parents
+		- URL: https://play.google.com/store/apps/details?id=com.bitguardian.parentalcontrol.parent
+	Title: Arlo
+		- URL: https://play.google.com/store/apps/details?id=com.arlo.app
+	Title: Vivitar Smart Security 2
+		- URL: https://play.google.com/store/apps/details?id=com.vivitarsecurity.smart
+	Title: KLEKT – Authentic Sneakers
+		- URL: https://play.google.com/store/apps/details?id=com.klekt
+	Title: Emirates
+		- URL: https://play.google.com/store/apps/details?id=com.emirates.ek.android
+	Title: Vueling - Cheap Flights
+		- URL: https://play.google.com/store/apps/details?id=com.mo2o.vueling
+	Title: Austrian
+		- URL: https://play.google.com/store/apps/details?id=com.austrian.connector.android
+	Title: Jetcost - Cheap flights, Car Rental
+		- URL: https://play.google.com/store/apps/details?id=com.jetcost.jetcost
+	Title: Gulf Air
+		- URL: https://play.google.com/store/apps/details?id=com.gulfair.android
+	Title: Air Arabia (official app)
+		- URL: https://play.google.com/store/apps/details?id=com.winit.airarabia
+	Title: eDreams: Book cheap flights and travel deals
+		- URL: https://play.google.com/store/apps/details?id=com.edreams.travel
+	Title: flydubai
+		- URL: https://play.google.com/store/apps/details?id=com.flydubai.booking
+	Title: Flights
+		- URL: https://play.google.com/store/apps/details?id=net.aviascanner.aviascanner
+	Title: Marriott Bonvoy
+		- URL: https://play.google.com/store/apps/details?id=com.marriott.mrt
+	Title: FlightHub - Book Cheap Flights, Hotels and Cars
+		- URL: https://play.google.com/store/apps/details?id=com.flighthub
+	Title: Virgin Atlantic
+		- URL: https://play.google.com/store/apps/details?id=com.vaa.runway
+	Title: lastminute.com - Holidays, flight + hotel packages
+		- URL: https://play.google.com/store/apps/details?id=com.lastminute
+	Title: Cheap Flights
+		- URL: https://play.google.com/store/apps/details?id=airticket.ato
+	Title: AirAsia
+		- URL: https://play.google.com/store/apps/details?id=com.airasia.mobile
+	Title: Cheap Flights & Hotels momondo
+		- URL: https://play.google.com/store/apps/details?id=com.momondo.flightsearch
+	Title: Cheap Flights worldwide
+		- URL: https://play.google.com/store/apps/details?id=com.trackingtopia.skyscan
+	Title: SensorSafe
+		- URL: https://play.google.com/store/apps/details?id=com.goodbaby.sensorsafe
+	Title: RT310i
+		- URL: https://play.google.com/store/apps/details?id=com.saluscontrols.rt310i
+	Title: iT500 Plus
+		- URL: https://play.google.com/store/apps/details?id=com.saluscontrols.it500v2
+	Title: Silvertrac Software
+		- URL: https://play.google.com/store/apps/details?id=com.silvertrac.mob
+	Title: NorthStar Connect
+		- URL: https://play.google.com/store/apps/details?id=com.northstar.connect
+	Title: Post University
+		- URL: https://play.google.com/store/apps/details?id=com.readyeducation.postuniversity
+	Title: InkBook
+		- URL: https://play.google.com/store/apps/details?id=com.dsi.inkbook
+	Title: Neues Museum Berlin
+		- URL: https://play.google.com/store/apps/details?id=air.com.neues.berlin.vusiem
+	Title: SENS8
+		- URL: https://play.google.com/store/apps/details?id=com.rippleinfo.sens8
+	Title: Remote for ROKU TVs / Devices : Codematics
+		- URL: https://play.google.com/store/apps/details?id=codematics.roku.smart.rokutvremote.tvremote
+	Title: Philips VoiceTracer
+		- URL: https://play.google.com/store/apps/details?id=com.speech.voicetracer
+	Title: Signia myHearing
+		- URL: https://play.google.com/store/apps/details?id=com.signia.myhearing
+	Title: Connexx Smart Remote
+		- URL: https://play.google.com/store/apps/details?id=com.rexton.bxsmartremote
+	Title: huerray! Philips Hue and LIFX
+		- URL: https://play.google.com/store/apps/details?id=de.johanneslauber.android.hue
+	Title: Home Connect (America)
+		- URL: https://play.google.com/store/apps/details?id=com.bshg.homeconnect.android.release.na
+	Title: Agave
+		- URL: https://play.google.com/store/apps/details?id=com.linuxjet.apps.agave
+	Title: eCommission SmartX Controllers
+		- URL: https://play.google.com/store/apps/details?id=com.schneider_electric.eCommissionSmartXControllers
+	Title: ASIAIR
+		- URL: https://play.google.com/store/apps/details?id=com.zwoasi.asiair
+	Title: SmartStoves Palazzetti
+		- URL: https://play.google.com/store/apps/details?id=it.palazzetti.app.smartstoves
+	Title: Danfoss Link™
+		- URL: https://play.google.com/store/apps/details?id=com.danfoss.linkapp
+	Title: testo Refrigeration
+		- URL: https://play.google.com/store/apps/details?id=de.testo.dmrapp
+	Title: Lutron App
+		- URL: https://play.google.com/store/apps/details?id=com.lutron.mmw
+	Title: G-Homa
+		- URL: https://play.google.com/store/apps/details?id=com.everflourish.android
+	Title: Control4 for OS 2
+		- URL: https://play.google.com/store/apps/details?id=com.control4.app
+	Title: Total Connect 2.0
+		- URL: https://play.google.com/store/apps/details?id=com.alarmnet.tc2
+	Title: OpenSprinkler
+		- URL: https://play.google.com/store/apps/details?id=com.albahra.sprinklers
+	Title: PointCentral Home Automation
+		- URL: https://play.google.com/store/apps/details?id=com.alarm.alarmmobile.android.pointcentral
+	Title: OmniLogic
+		- URL: https://play.google.com/store/apps/details?id=com.hayward
+	Title: G-Homa
+		- URL: https://play.google.com/store/apps/details?id=com.everflourish.android
+	Title: Pedal Commander
+		- URL: https://play.google.com/store/apps/details?id=com.vitalengarage.pedalcommander
+	Title: Squeezer
+		- URL: https://play.google.com/store/apps/details?id=uk.org.ngo.squeezer
+	Title: Kore, Official Remote for Kodi
+		- URL: https://play.google.com/store/apps/details?id=org.xbmc.kore
+	Title: Remote for Kodi / XBMC
+		- URL: https://play.google.com/store/apps/details?id=ch.berard.xbmcremotebeta
+	Title: Video & TV Cast + Roku Remote & Movie Stream App
+		- URL: https://play.google.com/store/apps/details?id=de.twokit.video.tv.cast.browser.roku.pro
+	Title: Yatse: Kodi remote control and cast
+		- URL: https://play.google.com/store/apps/details?id=org.leetzone.android.yatsewidgetfree
+	Title: Video & TV Cast | Roku Remote & Movie Stream App
+		- URL: https://play.google.com/store/apps/details?id=de.twokit.video.tv.cast.browser.roku
+	Title: Remote Starter for Yatse
+		- URL: https://play.google.com/store/apps/details?id=tv.yatse.android.remotestarter
+	Title: VLC Remote
+		- URL: https://play.google.com/store/apps/details?id=com.hobbyistsoftware.android.vlcremote_us
+	Title: Philips Hue Bridge v1
+		- URL: https://play.google.com/store/apps/details?id=com.philips.lighting.huebridgev1
+	Title: Total Connect 2.0
+		- URL: https://play.google.com/store/apps/details?id=com.alarmnet.tc2
+	Title: ADT Control ®
+		- URL: https://play.google.com/store/apps/details?id=com.adt.adtcontrolalarm
+	Title: AWS IoT 1-Click
+		- URL: https://play.google.com/store/apps/details?id=com.amazonaws.oneclick
+	Title: Purdue Federal Digital Banking
+		- URL: https://play.google.com/store/apps/details?id=com.clairmail.ps.purduedigital
+	Title: T-Cast MagiConnect TCL Android TV Remote
+		- URL: https://play.google.com/store/apps/details?id=com.tnscreen.main
+	Title: vRGB - LED IR Remote Control [TRIAL VERSION]
+		- URL: https://play.google.com/store/apps/details?id=com.vinalex.vrgb
+	Title: Galaxy Universal Remote
+		- URL: https://play.google.com/store/apps/details?id=com.moletag.galaxy.s4.remote
+	Title: Android TV Remote Control
+		- URL: https://play.google.com/store/apps/details?id=com.google.android.tv.remote
+	Title: SofaBaton smart remote
+		- URL: https://play.google.com/store/apps/details?id=www.romateck.com.u1
+	Title: Kinetic Internet Security OTG
+		- URL: https://play.google.com/store/apps/details?id=com.fsecure.ms.windstream
+	Title: Cox Business Security Services
+		- URL: https://play.google.com/store/apps/details?id=com.alarm.alarmmobile.android.cox
+	Title: eHub
+		- URL: https://play.google.com/store/apps/details?id=org.ehub1100.eh.ui
+	Title: abode
+		- URL: https://play.google.com/store/apps/details?id=com.abode.abode
+	Title: Volkswagen Car-Net
+		- URL: https://play.google.com/store/apps/details?id=com.vw.carnet.release
+	Title: ALIBI Witness Mobile
+		- URL: https://play.google.com/store/apps/details?id=com.mcu.obeservint
+	Title: NissanConnect® Services
+		- URL: https://play.google.com/store/apps/details?id=com.nissan.connectservices
+	Title: XFINITY TV Remote
+		- URL: https://play.google.com/store/apps/details?id=com.xfinity.tv
+	Title: VIZIO SmartCast Mobile™
+		- URL: https://play.google.com/store/apps/details?id=com.vizio.vue.launcher
+	Title: Masterbuilt
+		- URL: https://play.google.com/store/apps/details?id=com.masterbuilt.masterbuilt
+	Title: HondaLink
+		- URL: https://play.google.com/store/apps/details?id=com.honda.hondalink.connect
+	Title: EyezON Mobile
+		- URL: https://play.google.com/store/apps/details?id=com.eyez_on
+	Title: My Leviton
+		- URL: https://play.google.com/store/apps/details?id=com.leviton.home
+	Title: Energizer Connect
+		- URL: https://play.google.com/store/apps/details?id=com.xtreme.energizer
+	Title: ADT Pulse ®
+		- URL: https://play.google.com/store/apps/details?id=com.adt.pulse
+	Title: SimpliSafe Home Security App
+		- URL: https://play.google.com/store/apps/details?id=com.simplisafe.mobile
+	Title: Netatmo Security
+		- URL: https://play.google.com/store/apps/details?id=com.netatmo.camera
+	Title: SaferWatch
+		- URL: https://play.google.com/store/apps/details?id=com.ad.saferwatch
+	Title: AT&T Mobile Security
+		- URL: https://play.google.com/store/apps/details?id=com.att.mobilesecurity
+	Title: mySafeTouch
+		- URL: https://play.google.com/store/apps/details?id=com.alarm.alarmmobile.android.safetouch
+	Title: Schlage Home
+		- URL: https://play.google.com/store/apps/details?id=com.allegion.leopard
+	Title: August Home
+		- URL: https://play.google.com/store/apps/details?id=com.august.luna
+	Title: Home-IOT
+		- URL: https://play.google.com/store/apps/details?id=net.ezhome.smarthome
+	Title: iSolved Go
+		- URL: https://play.google.com/store/apps/details?id=com.infinisource.iSolvedTime.Mobile
+	Title: Travellink: Book cheap flights and travel deals
+		- URL: https://play.google.com/store/apps/details?id=com.travellink
+	Title: OneTravel: Cheap Flights, Cheap Hotels Booking App
+		- URL: https://play.google.com/store/apps/details?id=com.wkt.onetravel.android
+	Title: Seer - Home Monitoring
+		- URL: https://play.google.com/store/apps/details?id=com.southerntelecom.seer
+	Title: GENIUScontrol
+		- URL: https://play.google.com/store/apps/details?id=com.miracleear.geniuscontrol
+	Title: RainMachine
+		- URL: https://play.google.com/store/apps/details?id=com.rainmachine
+	Title: Boost Mobile Secure WiFi
+		- URL: https://play.google.com/store/apps/details?id=com.mobolize.boost.securewifi
+	Title: mydlink Home
+		- URL: https://play.google.com/store/apps/details?id=com.dlink.mydlinkmyhome
+	Title: FlytOS Mobile - Control DJI Drones Over 4G/5G
+		- URL: https://play.google.com/store/apps/details?id=com.flytbase.flytos
+	Title: Unified TV
+		- URL: https://play.google.com/store/apps/details?id=com.Relmtech.RemoteIR
+	Title: Roon Remote
+		- URL: https://play.google.com/store/apps/details?id=com.roon.mobile
+	Title: Sound Bar Controller
+		- URL: https://play.google.com/store/apps/details?id=com.wifiaudio.Yamaha
+	Title: Audirvana Remote
+		- URL: https://play.google.com/store/apps/details?id=com.audirvana.aremote
+	Title: HEOS
+		- URL: https://play.google.com/store/apps/details?id=com.dnm.heos.phone
+	Title: Wireless Audio-Multiroom
+		- URL: https://play.google.com/store/apps/details?id=com.samsung.roomspeaker3
+	Title: EarStudio
+		- URL: https://play.google.com/store/apps/details?id=com.radsone.earstudio
+	Title: Audio Remote
+		- URL: https://play.google.com/store/apps/details?id=com.samsung.samsungband
+	Title: AudioTool
+		- URL: https://play.google.com/store/apps/details?id=com.julian.apps.AudioTool
+	Title: FoobarCon Pro
+		- URL: https://play.google.com/store/apps/details?id=com.wan.foobarconpro
+	Title: Onkyo Controller
+		- URL: https://play.google.com/store/apps/details?id=com.onkyo.jp.onkyocontroller
+	Title: H9 Control
+		- URL: https://play.google.com/store/apps/details?id=com.eventide.h9
+	Title: Oscilab Pro - Groovebox & MIDI
+		- URL: https://play.google.com/store/apps/details?id=net.soundapps.modulab
+	Title: MIDI Controller
+		- URL: https://play.google.com/store/apps/details?id=com.seemayr.midicontroller
+	Title: Squeeze Ctrl
+		- URL: https://play.google.com/store/apps/details?id=com.angrygoat.android.squeezectrl
+	Title: Mixing Station Wing Pro
+		- URL: https://play.google.com/store/apps/details?id=com.davidgiga1993.mixingstation.mg_wingpro
+	Title: Launch Buttons Plus - Ableton MIDI Controller
+		- URL: https://play.google.com/store/apps/details?id=de.bassapps.launchbuttonsP
+	Title: LK - Ableton & Midi Control
+		- URL: https://play.google.com/store/apps/details?id=com.imaginando.lk
+	Title: Orange Squeeze
+		- URL: https://play.google.com/store/apps/details?id=com.orangebikelabs.orangesqueeze
+	Title: Clementine Remote
+		- URL: https://play.google.com/store/apps/details?id=de.qspool.clementineremote
+	Title: MyMon Personal Monitor Mixer for Waves eMotion LV1
+		- URL: https://play.google.com/store/apps/details?id=com.zerodebug.mymon
+	Title: CudaLaunch
+		- URL: https://play.google.com/store/apps/details?id=com.barracuda.ngfirewall.sslvpn.mobileapp
+	Title: myControl App
+		- URL: https://play.google.com/store/apps/details?id=com.signia.mycontrol
+	Title: touchControl
+		- URL: https://play.google.com/store/apps/details?id=com.hearing.healthcare.siemens.touchcontrol
+	Title: RemotePC Viewer
+		- URL: https://play.google.com/store/apps/details?id=com.prosoftnet.rpcnew
+	Title: M.A.L.P. - MPD Client
+		- URL: https://play.google.com/store/apps/details?id=org.gateshipone.malp
+	Title: KEF Control
+		- URL: https://play.google.com/store/apps/details?id=com.kef.remote
+	Title: THR Remote
+		- URL: https://play.google.com/store/apps/details?id=com.thrremote.guitar.yamaha
+	Title: DTA CONTROLLER
+		- URL: https://play.google.com/store/apps/details?id=com.yamaha.av.dtacontroller
+	Title: Remote for iTunes DJ&UpNext
+		- URL: https://play.google.com/store/apps/details?id=de.ErniSoft.Remote
+	Title: JRemote2
+		- URL: https://play.google.com/store/apps/details?id=com.jriver.jremote2
+	Title: Pax Mobile
+		- URL: https://play.google.com/store/apps/details?id=com.pax.app
+	Title: Roon Remote
+		- URL: https://play.google.com/store/apps/details?id=com.roon.mobile
+	Title: Sound Bar Controller
+		- URL: https://play.google.com/store/apps/details?id=com.wifiaudio.Yamaha
+	Title: AV CONTROLLER
+		- URL: https://play.google.com/store/apps/details?id=com.yamaha.av.avcontroller
+	Title: Onkyo Remote
+		- URL: https://play.google.com/store/apps/details?id=com.onkyo.jp.onkyoremote
+	Title: Nanoleaf Smarter Series
+		- URL: https://play.google.com/store/apps/details?id=me.nanoleaf.nanoleaf
+	Title: Preflight by DutchPilotGirl
+		- URL: https://play.google.com/store/apps/details?id=com.dutchpilotgirl.preflight
+	Title: Content Browser Mobile
+		- URL: https://play.google.com/store/apps/details?id=com.sony.promobile.ctbm.main
+	Title: EarStudio
+		- URL: https://play.google.com/store/apps/details?id=com.radsone.earstudio
+	Title: Just Dance Controller
+		- URL: https://play.google.com/store/apps/details?id=com.ubisoft.dance.justdance2015companion
+	Title: PSPlay: Unlimited PS4 Remote Play
+		- URL: https://play.google.com/store/apps/details?id=psplay.grill.com
+	Title: MonkeyMote Music Remote
+		- URL: https://play.google.com/store/apps/details?id=com.obsidium.monkeymote
+	Title: TV Remote Control for Samsung (IR - infrared)
+		- URL: https://play.google.com/store/apps/details?id=ir.tv.remote.control.samcontrol
+	Title: Android TV Remote Service
+		- URL: https://play.google.com/store/apps/details?id=com.google.android.tv.remote.service
+	Title: Likee - Let You Shine
+		- URL: https://play.google.com/store/apps/details?id=video.like
+	Title: Instagram
+		- URL: https://play.google.com/store/apps/details?id=com.instagram.android
+	Title: AppLock - Fingerprint & Password, Gallery Locker
+		- URL: https://play.google.com/store/apps/details?id=com.alpha.applock
+	Title: Potato chat
+		- URL: https://play.google.com/store/apps/details?id=org.potato.messenger
+	Title: News Break - Local Headlines & Breaking News
+		- URL: https://play.google.com/store/apps/details?id=com.particlenews.newsbreak
+	Title: Turbo VPN- Free VPN Proxy Server & Secure Service
+		- URL: https://play.google.com/store/apps/details?id=free.vpn.unblock.proxy.turbovpn
+	Title: PS4 Remote Play
+		- URL: https://play.google.com/store/apps/details?id=com.playstation.remoteplay
+	Title: BOOYAH!
+		- URL: https://play.google.com/store/apps/details?id=com.mambet.tv
+	Title: Zynn
+		- URL: https://play.google.com/store/apps/details?id=com.owlreality.zynn
+	Title: Clutch - Share Xbox/PS4/Mobile/PC DVR game clips
+		- URL: https://play.google.com/store/apps/details?id=wtf.utl.ftw.android
+	Title: McAfee® Security for Metro®
+		- URL: https://play.google.com/store/apps/details?id=com.wsandroid.suite.metropcs
+	Title: VPNhub Best Free Unlimited VPN - Secure WiFi Proxy
+		- URL: https://play.google.com/store/apps/details?id=com.appatomic.vpnhub
+	Title: LiveHome
+		- URL: https://play.google.com/store/apps/details?id=com.eken.doorbell
+	Title: Aiwit
+		- URL: https://play.google.com/store/apps/details?id=com.eken.aiwit
+	Title: Juan cloud
+		- URL: https://play.google.com/store/apps/details?id=com.juanvision.jcloud
+	Title: iPOLiS mobile
+		- URL: https://play.google.com/store/apps/details?id=com.samsung.ipolis
+	Title: P6SLite
+		- URL: https://play.google.com/store/apps/details?id=com.zwcode.p6slite
+	Title: CamHipro
+		- URL: https://play.google.com/store/apps/details?id=com.hichip.campro
+	Title: IP Cam Soft
+		- URL: https://play.google.com/store/apps/details?id=ipcamsoft.com.ipcam
+	Title: IP Pro(VR Cam, EseeCloud)
+		- URL: https://play.google.com/store/apps/details?id=com.specialyg.ippro
+	Title: XVRView
+		- URL: https://play.google.com/store/apps/details?id=com.xvrview
+	Title: Partizan
+		- URL: https://play.google.com/store/apps/details?id=com.partizan.pro
+	Title: ABUS App2Cam Plus
+		- URL: https://play.google.com/store/apps/details?id=com.abus.app2camplus.gcm
+	Title: Smartvest
+		- URL: https://play.google.com/store/apps/details?id=smartvest.abus.com.smartvest
+	Title: ABUS Link Station Lite
+		- URL: https://play.google.com/store/apps/details?id=com.abus.ipcam.lite
+	Title: Smart Home Surveillance Picket - reuse old phones
+		- URL: https://play.google.com/store/apps/details?id=com.fami.cam
+	Title: Image Sync
+		- URL: https://play.google.com/store/apps/details?id=com.ricohimaging.imagesync
+	Title: HWDVCam
+		- URL: https://play.google.com/store/apps/details?id=com.juyi.camera
+	Title: Splashtop On-Demand Support
+		- URL: https://play.google.com/store/apps/details?id=com.splashtop.sos
+	Title: Ericsson Remote Access 2.0
+		- URL: https://play.google.com/store/apps/details?id=com.ericssonremoteaccess2.mobile
+	Title: Remote Link (PC Remote)
+		- URL: https://play.google.com/store/apps/details?id=com.asus.remotelink.full
+	Title: FlightConnections - Worldwide Flight Route Map
+		- URL: https://play.google.com/store/apps/details?id=com.flightconnections
+	Title: Wireless Barcode Scanner, Full
+		- URL: https://play.google.com/store/apps/details?id=com.tecit.android.bluescanner.full
+	Title: Netvue - Home Security Done Smart
+		- URL: https://play.google.com/store/apps/details?id=com.netviewtech
+	Title: NorthStar Connect
+		- URL: https://play.google.com/store/apps/details?id=com.northstar.connect
+	Title: solarman
+		- URL: https://play.google.com/store/apps/details?id=com.igen.rrgf
+	Title: Vss Mobile
+		- URL: https://play.google.com/store/apps/details?id=com.vss.vssmobile
+	Title: Energy Viewer
+		- URL: https://play.google.com/store/apps/details?id=com.abb.energyviewer
+	Title: TeamViewer Host
+		- URL: https://play.google.com/store/apps/details?id=com.teamviewer.host.market
+	Title: iCSee
+		- URL: https://play.google.com/store/apps/details?id=com.xm.csee
+	Title: Eye4
+		- URL: https://play.google.com/store/apps/details?id=vstc.vscam.client
+	Title: Vivitar Smart Security 2
+		- URL: https://play.google.com/store/apps/details?id=com.vivitarsecurity.smart
+	Title: Secure WiFi
+		- URL: https://play.google.com/store/apps/details?id=com.mobolize.sprint.securewifi
+	Title: Vuebell - Home Security Done Smart
+		- URL: https://play.google.com/store/apps/details?id=com.vuebell
+	Title: P6SPro
+		- URL: https://play.google.com/store/apps/details?id=com.zwcode.p6spro
+	Title: SoCatch
+		- URL: https://play.google.com/store/apps/details?id=remote.iWatchDVR.SoCatch
+	Title: HiAi
+		- URL: https://play.google.com/store/apps/details?id=com.zwcode.hiai
+	Title: WDlxTV MPs Remote DONATE
+		- URL: https://play.google.com/store/apps/details?id=com.osdmod.remotedonate
+	Title: WiFi PC File Explorer Pro
+		- URL: https://play.google.com/store/apps/details?id=x.WifiPCFileExplorerPro
+	Title: Digifort Mobile Client
+		- URL: https://play.google.com/store/apps/details?id=com.Digifort.MobileClient
+	Title: PingID
+		- URL: https://play.google.com/store/apps/details?id=prod.com.pingidentity.pingid
+	Title: UniFi Network
+		- URL: https://play.google.com/store/apps/details?id=com.ubnt.easyunifi
+	Title: IBM Verify
+		- URL: https://play.google.com/store/apps/details?id=com.ibm.security.verifyapp
+	Title: gDMSS Lite
+		- URL: https://play.google.com/store/apps/details?id=com.mm.android.direct.gdmssphoneLite
+	Title: Cawice™ Home Security Camera
+		- URL: https://play.google.com/store/apps/details?id=com.cawice.android
+	Title: Video Surveillance Ivideon
+		- URL: https://play.google.com/store/apps/details?id=com.ivideon.client
+	Title: Arlo
+		- URL: https://play.google.com/store/apps/details?id=com.arlo.app
+	Title: AFCU Card Guard™
+		- URL: https://play.google.com/store/apps/details?id=com.americafirst.cardguard
+	Title: tado°
+		- URL: https://play.google.com/store/apps/details?id=com.tado
+	Title: Netvue - Home Security Done Smart
+		- URL: https://play.google.com/store/apps/details?id=com.netviewtech
+	Title: Ring - Always Home
+		- URL: https://play.google.com/store/apps/details?id=com.ringapp
+	Title: Virtual Keypad
+		- URL: https://play.google.com/store/apps/details?id=com.dmp.android.joule
+	Title: Transmission Remote
+		- URL: https://play.google.com/store/apps/details?id=net.yupol.transmissionremote.app
+	Title: qBittorrent Controller Pro
+		- URL: https://play.google.com/store/apps/details?id=com.lgallardo.qbittorrentclientpro
+	Title: ircDDB remote
+		- URL: https://play.google.com/store/apps/details?id=com.pd7l.ircddbremote
+	Title: Philips Hue Bluetooth
+		- URL: https://play.google.com/store/apps/details?id=com.signify.hue.blue
+	Title: Kasa Smart
+		- URL: https://play.google.com/store/apps/details?id=com.tplink.kasa_android
+	Title: IxChariot Endpoint
+		- URL: https://play.google.com/store/apps/details?id=com.ixia.ixchariot
+	Title: InviZible Pro
+		- URL: https://play.google.com/store/apps/details?id=pan.alexander.tordnscrypt.gp
+	Title: myQ: Smart Garage & Access Control
+		- URL: https://play.google.com/store/apps/details?id=com.chamberlain.android.liftmaster.myq
+	Title: QuickLeaf
+		- URL: https://play.google.com/store/apps/details?id=no.joymyr.quickleaf
+	Title: nzb360 - Sonarr / Radarr / SAB / Torrents and more
+		- URL: https://play.google.com/store/apps/details?id=com.kevinforeman.nzb360
+	Title: Remote Phone Call
+		- URL: https://play.google.com/store/apps/details?id=justPhone.remotePhone
+	Title: Google Home
+		- URL: https://play.google.com/store/apps/details?id=com.google.android.apps.chromecast.app
+	Title: Roku TV Remote Control : iRoku
+		- URL: https://play.google.com/store/apps/details?id=com.floramobileapps.RokuTVFree
+	Title: Remote for Samsung TV | Smart & WiFi Direct
+		- URL: https://play.google.com/store/apps/details?id=smart.tv.wifi.remote.control.samcontrol
+	Title: Fire TV Universal Remote Android TV KODI CetusPlay
+		- URL: https://play.google.com/store/apps/details?id=com.cetusplay.remotephone
+	Title: Home Security Camera WardenCam - reuse old phones
+		- URL: https://play.google.com/store/apps/details?id=com.warden.cam
+	Title: Alfred Home Security Camera, Baby Monitor, Webcam
+		- URL: https://play.google.com/store/apps/details?id=com.ivuu
+	Title: Make your old phone as Home Security Camera
+		- URL: https://play.google.com/store/apps/details?id=com.code.bluegeny.myhomeview
+	Title: gDMSS Plus
+		- URL: https://play.google.com/store/apps/details?id=com.mm.android.direct.gdmssphone
+	Title: Serverless Bluetooth Keyboard & Mouse for PC/Phone
+		- URL: https://play.google.com/store/apps/details?id=io.appground.blek
+	Title: Roku Remote Control: RoSpikes (WiFi+IR)
+		- URL: https://play.google.com/store/apps/details?id=roid.spikesroid.roku_tv_remote
+	Title: RemoteNOW
+		- URL: https://play.google.com/store/apps/details?id=com.universal.remote.ms
+	Title: InfiniMote - PC  remote control and mouse
+		- URL: https://play.google.com/store/apps/details?id=com.infinimote
+	Title: Remote Mouse
+		- URL: https://play.google.com/store/apps/details?id=com.hungrybolo.remotemouseandroid
+	Title: Rokie - Remote for Roku
+		- URL: https://play.google.com/store/apps/details?id=com.kraftwerk9.rokie
+	Title: WiFi Mouse(Android remote control PC/Mac/Laptop)
+		- URL: https://play.google.com/store/apps/details?id=com.necta.wifimousefree
+	Title: Maiar Browser: Blazing fast, privacy first browser
+		- URL: https://play.google.com/store/apps/details?id=com.elrond.maiar
+	Title: AirMirror: Remote support & Remote control devices
+		- URL: https://play.google.com/store/apps/details?id=com.sand.airmirror
+	Title: Amazon Fire TV
+		- URL: https://play.google.com/store/apps/details?id=com.amazon.storm.lightning.client.aosp
+	Title: Kodi
+		- URL: https://play.google.com/store/apps/details?id=org.xbmc.kodi
+	Title: wako - TV & Movie Tracker - Trakt/SIMKL Client
+		- URL: https://play.google.com/store/apps/details?id=app.wako
+	Title: AnyDesk Remote Control
+		- URL: https://play.google.com/store/apps/details?id=com.anydesk.anydeskandroid
+	Title: Google Home
+		- URL: https://play.google.com/store/apps/details?id=com.google.android.apps.chromecast.app
+	Title: Hue Disco
+		- URL: https://play.google.com/store/apps/details?id=nl.ijsdesign.huedisco
+	Title: Hue & Me
+		- URL: https://play.google.com/store/apps/details?id=com.memepasmal.hueandme
+	Title: Philips Field Apps
+		- URL: https://play.google.com/store/apps/details?id=com.philips.fieldapps
+	Title: AsteraApp
+		- URL: https://play.google.com/store/apps/details?id=com.asteraled.asteraapp10
+	Title: AwoX Smart CONTROL
+		- URL: https://play.google.com/store/apps/details?id=com.awox.smart.control
+	Title: Universal Smart TV / IR TV Remote Control-PREMIUM
+		- URL: https://play.google.com/store/apps/details?id=codematics.universal.tv.remote.tvremote.control.pro
+	Title: Peace of Mind: Caregiver
+		- URL: https://play.google.com/store/apps/details?id=com.burlymarmot.peaceofmind.caregiver_v2
+	Title: Interact Workspace
+		- URL: https://play.google.com/store/apps/details?id=com.signify.li.interactworkspace
+	Title: WallPanel
+		- URL: https://play.google.com/store/apps/details?id=com.thanksmister.iot.wallpanel
+	Title: Oticon RemoteCare
+		- URL: https://play.google.com/store/apps/details?id=com.oticon.remoteassistance.Oticon
+	Title: Rexton App
+		- URL: https://play.google.com/store/apps/details?id=com.connexx.rta
+	Title: Magic Home Pro
+		- URL: https://play.google.com/store/apps/details?id=com.zengge.wifi
+	Title: Blink Home Monitor
+		- URL: https://play.google.com/store/apps/details?id=com.immediasemi.android.blink
+	Title: Momentum
+		- URL: https://play.google.com/store/apps/details?id=com.pepper.momentum
+	Title: Ring - Always Home
+		- URL: https://play.google.com/store/apps/details?id=com.ringapp
+	Title: iRISCO
+		- URL: https://play.google.com/store/apps/details?id=com.homeguard
+	Title: IP Pro(VR Cam, EseeCloud)
+		- URL: https://play.google.com/store/apps/details?id=com.specialyg.ippro
+	Title: Geeni
+		- URL: https://play.google.com/store/apps/details?id=com.merkuryinnovations.geeni
+	Title: Wisenet SmartCam+
+		- URL: https://play.google.com/store/apps/details?id=com.techwin.wisenetsmartcam
+	Title: Camera Remote: Wear OS, Galaxy Watch, Gear S3 App
+		- URL: https://play.google.com/store/apps/details?id=com.kemasdimas.wristcamera
+	Title: EZVIZ
+		- URL: https://play.google.com/store/apps/details?id=com.ezviz
+	Title: LibreLinkUp
+		- URL: https://play.google.com/store/apps/details?id=org.nativescript.LibreLinkUp
+	Title: Blink Home Monitor
+		- URL: https://play.google.com/store/apps/details?id=com.immediasemi.android.blink
+	Title: DPSS Mobile
+		- URL: https://play.google.com/store/apps/details?id=gov.lacounty.dpss.MobileApp
+	Title: TrackTik Guard Tour
+		- URL: https://play.google.com/store/apps/details?id=com.staffr.app
+	Title: Security First Mobiliti
+		- URL: https://play.google.com/store/apps/details?id=com.securityfirstfcu.mobile
+	Title: La Crosse Alerts Mobile
+		- URL: https://play.google.com/store/apps/details?id=com.lacrossetechnology.lacrossemobile
+	Title: GO MTS
+		- URL: https://play.google.com/store/apps/details?id=com.techjini.mts
+	Title: GuardMetrics Patrol
+		- URL: https://play.google.com/store/apps/details?id=com.guardmetrics.patrol
+	Title: PortDroid - Network Analysis Kit & Port Scanner
+		- URL: https://play.google.com/store/apps/details?id=com.stealthcopter.portdroid
+	Title: WiFi Mouse Pro
+		- URL: https://play.google.com/store/apps/details?id=com.necta.wifimouse
+	Title: VSmaHome
+		- URL: https://play.google.com/store/apps/details?id=com.vsmahome.vsmahomea
+	Title: Nooie Cam
+		- URL: https://play.google.com/store/apps/details?id=com.apeman.nooie
+	Title: IP Pro(VR Cam, EseeCloud)
+		- URL: https://play.google.com/store/apps/details?id=com.juanvision.eseecloud30
+	Title: Who is on my WiFi Pro(No Ads) - Network Scanner
+		- URL: https://play.google.com/store/apps/details?id=com.whousemywifi.networkscanner.wifiscanner.pro
+	Title: Weather Station
+		- URL: https://play.google.com/store/apps/details?id=com.arf.weatherstation
+	Title: Security Camera CZ
+		- URL: https://play.google.com/store/apps/details?id=cz.scamera.securitycamera
+	Title: SayCheese - Remote Camera
+		- URL: https://play.google.com/store/apps/details?id=com.saychiz.remotecamera
+	Title: DCS UFC
+		- URL: https://play.google.com/store/apps/details?id=com.dcsufc
+	Title: KY FPV
+		- URL: https://play.google.com/store/apps/details?id=com.cooingdv.kyfpv
+	Title: Total Defense Mobile Security
+		- URL: https://play.google.com/store/apps/details?id=com.totaldefense.newsecurity
+	Title: Juno AI
+		- URL: https://play.google.com/store/apps/details?id=com.acuitybrands.juno.ai
+	Title: Verisure
+		- URL: https://play.google.com/store/apps/details?id=com.sdi.mobile.android.verisure
+	Title: Amazon A to Z
+		- URL: https://play.google.com/store/apps/details?id=com.amazon.atozm
+	Title: Amazon Fire TV
+		- URL: https://play.google.com/store/apps/details?id=com.amazon.storm.lightning.client.aosp
+	Title: Audioteka
+		- URL: https://play.google.com/store/apps/details?id=com.audioteka
+	Title: Audioteka
+		- URL: https://play.google.com/store/apps/details?id=pl.k2.droidoaudioteka
+	Title: Black Classic Watch Face
+		- URL: https://play.google.com/store/apps/details?id=huskydev.android.watchface.blackclassic
+	Title: Bubble Cloud Widgets + Folders for phones/tablets
+		- URL: https://play.google.com/store/apps/details?id=dyna.logix.bookmarkbubbles.widgets
+----- Questionable companion apps ---------
+	Title: LifeSmart
+		- URL: https://play.google.com/store/apps/details?id=com.ilifesmart.mslict_gp
+	Title: Tuya Smart
+		- URL: https://play.google.com/store/apps/details?id=com.tuya.smart
+	Title: Home Assistant
+		- URL: https://play.google.com/store/apps/details?id=io.homeassistant.companion.android
+	Title: Hubitat Mobile
+		- URL: https://play.google.com/store/apps/details?id=com.hubitat.app
+	Title: EufyHome
+		- URL: https://play.google.com/store/apps/details?id=com.eufylife.smarthome
+	Title: ORVIBO Home
+		- URL: https://play.google.com/store/apps/details?id=com.orvibo.homemate
+	Title: Fibaro Home Center
+		- URL: https://play.google.com/store/apps/details?id=com.fibaro.homecenter
+	Title: Domoticz - Home Automation
+		- URL: https://play.google.com/store/apps/details?id=nl.hnogames.domoticz.premium
+	Title: Akaso Smart
+		- URL: https://play.google.com/store/apps/details?id=com.akaso.smart
+	Title: SP1 – Commercial Electric Smart Plug
+		- URL: https://play.google.com/store/apps/details?id=com.homedepot.sp1
+	Title: Neato Robotics
+		- URL: https://play.google.com/store/apps/details?id=com.neatorobotics.android
+	Title: Lepro LampUX
+		- URL: https://play.google.com/store/apps/details?id=com.lampux.ledbrighter
+	Title: Ariela - Home Assistant Client
+		- URL: https://play.google.com/store/apps/details?id=com.surodev.ariela
+	Title: Aqara Home
+		- URL: https://play.google.com/store/apps/details?id=com.lumiunited.aqarahome
+	Title: Microsoft Cortana – Digital assistant
+		- URL: https://play.google.com/store/apps/details?id=com.microsoft.cortana
+	Title: Koogeek  Life
+		- URL: https://play.google.com/store/apps/details?id=com.koogeek.homelife
+	Title: Kasa Smart
+		- URL: https://play.google.com/store/apps/details?id=com.tplink.kasa_android
+	Title: SIMPLEconnect® 2.0
+		- URL: https://play.google.com/store/apps/details?id=com.hunter.hunterWifiConnectAndroid
+	Title: Hubble Connected
+		- URL: https://play.google.com/store/apps/details?id=com.hubble.care
+	Title: Hue Essentials - Philips Hue & TRÅDFRI
+		- URL: https://play.google.com/store/apps/details?id=com.superthomaslab.hueessentials
+	Title: Brilliant - Smart Home Control
+		- URL: https://play.google.com/store/apps/details?id=tech.brilliant.brilliant
+	Title: SharpTools Tasker Plugin & Widgets for SmartThings
+		- URL: https://play.google.com/store/apps/details?id=com.boshdirect.stwidgets
+	Title: Domoticz Home Automation Lite
+		- URL: https://play.google.com/store/apps/details?id=nl.hnogames.domoticz
+	Title: HUB 6 - Home Automation
+		- URL: https://play.google.com/store/apps/details?id=com.hub6.android
+	Title: HomeHabit
+		- URL: https://play.google.com/store/apps/details?id=app.homehabit.view
+	Title: ActionTiles SmartThings custom web dashboard maker
+		- URL: https://play.google.com/store/apps/details?id=app.actiontiles.android
+	Title: Shelly Home
+		- URL: https://play.google.com/store/apps/details?id=com.home.shelly
+	Title: My Leviton
+		- URL: https://play.google.com/store/apps/details?id=com.leviton.home
+	Title: Philips Hue
+		- URL: https://play.google.com/store/apps/details?id=com.philips.lighting.hue2
+	Title: Interact Workspace
+		- URL: https://play.google.com/store/apps/details?id=com.signify.li.interactworkspace
+	Title: eedomus
+		- URL: https://play.google.com/store/apps/details?id=com.eedomus.app
+	Title: Vera Mobile
+		- URL: https://play.google.com/store/apps/details?id=com.vera.android
+	Title: Energizer Connect
+		- URL: https://play.google.com/store/apps/details?id=com.xtreme.energizer
+	Title: HomeSeer Mobile
+		- URL: https://play.google.com/store/apps/details?id=com.homeseer.mobile.android
+	Title: ADT Pulse ®
+		- URL: https://play.google.com/store/apps/details?id=com.adt.pulse
+	Title: LIFX
+		- URL: https://play.google.com/store/apps/details?id=com.lifx.lifx
+	Title: SmartRent
+		- URL: https://play.google.com/store/apps/details?id=com.smartrent.resident
+	Title: RingCentral
+		- URL: https://play.google.com/store/apps/details?id=com.glip.mobile
+	Title: MoeGo Business
+		- URL: https://play.google.com/store/apps/details?id=com.moement.moblie_grooming
+	Title: TP-Link Tapo
+		- URL: https://play.google.com/store/apps/details?id=com.tplink.iot
+	Title: LSC Smart Connect
+		- URL: https://play.google.com/store/apps/details?id=com.lscsmartconnection.smart
+	Title: SwitchBot
+		- URL: https://play.google.com/store/apps/details?id=com.theswitchbot.switchbot
+	Title: Samsung Smart Home
+		- URL: https://play.google.com/store/apps/details?id=com.samsung.smarthome
+	Title: Nexxt Home
+		- URL: https://play.google.com/store/apps/details?id=com.intcomex.smart
+	Title: Woox home
+		- URL: https://play.google.com/store/apps/details?id=com.wooxhome.smart
+	Title: D-Link defend
+		- URL: https://play.google.com/store/apps/details?id=com.dlink.mcafee.defend
+	Title: EufyLife - Eufy, Healthy Living Made Smart.
+		- URL: https://play.google.com/store/apps/details?id=com.oceanwing.smarthome
+	Title: Ariela Pro - Home Assistant Client
+		- URL: https://play.google.com/store/apps/details?id=com.surodev.arielapro
+	Title: Kwikset
+		- URL: https://play.google.com/store/apps/details?id=com.kwikset.blewifi
+	Title: Netvue - Home Security Done Smart
+		- URL: https://play.google.com/store/apps/details?id=com.netviewtech
+	Title: HomeControl+
+		- URL: https://play.google.com/store/apps/details?id=com.pyronix.app
+	Title: Seer - Home Monitoring
+		- URL: https://play.google.com/store/apps/details?id=com.southerntelecom.seer
+	Title: Interact Pro App
+		- URL: https://play.google.com/store/apps/details?id=com.philips.li.c4m
+	Title: Philips Hue Bridge v1
+		- URL: https://play.google.com/store/apps/details?id=com.philips.lighting.huebridgev1
+	Title: Home Assistant
+		- URL: https://play.google.com/store/apps/details?id=io.homeassistant.companion.android
+	Title: Roborock
+		- URL: https://play.google.com/store/apps/details?id=com.roborock.smart
+	Title: Home Remote
+		- URL: https://play.google.com/store/apps/details?id=com.thehomeremote.homeremote
+	Title: My Mesh
+		- URL: https://play.google.com/store/apps/details?id=com.mymesh.MyMesh
+	Title: RemoteLink
+		- URL: https://play.google.com/store/apps/details?id=com.lehiso.remotelink
+	Title: Ryobi™ GenControl™
+		- URL: https://play.google.com/store/apps/details?id=com.ttigroup.gencontrol
+	Title: Gate Control PRO Admin
+		- URL: https://play.google.com/store/apps/details?id=hu.tell.gatecontrolv2
+	Title: HueHello 2- On Offer
+		- URL: https://play.google.com/store/apps/details?id=com.prodpeak.huehello2
+	Title: DriveWizard Mobile
+		- URL: https://play.google.com/store/apps/details?id=jp.co.yaskawa.drivewizard
+	Title: Vivint Smart Home
+		- URL: https://play.google.com/store/apps/details?id=com.vivint.vivintsky
+	Title: Kevo
+		- URL: https://play.google.com/store/apps/details?id=com.unikey.kevo
+	Title: August Home
+		- URL: https://play.google.com/store/apps/details?id=com.august.luna
+	Title: Moto Mods™ Manager
+		- URL: https://play.google.com/store/apps/details?id=com.motorola.modservice
+	Title: wBox by blebox.eu
+		- URL: https://play.google.com/store/apps/details?id=eu.blebox.wBox
+	Title: Minut Smart Home Sensor
+		- URL: https://play.google.com/store/apps/details?id=com.minut.point
+	Title: Crestron Home
+		- URL: https://play.google.com/store/apps/details?id=com.crestron.phoenix.app
+	Title: Crestron Mobile Pro
+		- URL: https://play.google.com/store/apps/details?id=com.crestron.mobile.android
+	Title: Home Connect (America)
+		- URL: https://play.google.com/store/apps/details?id=com.bshg.homeconnect.android.release.na
+	Title: Crestron App
+		- URL: https://play.google.com/store/apps/details?id=air.com.crestron.andros
+	Title: Yeelight
+		- URL: https://play.google.com/store/apps/details?id=com.yeelight.cherry
+	Title: Office Depot®- Rewards & Deals on Office Supplies
+		- URL: https://play.google.com/store/apps/details?id=com.officedepot.mobile.ui
+	Title: BJ's Wholesale Club
+		- URL: https://play.google.com/store/apps/details?id=com.brandingbrand.reactnative.and.bjs
+	Title: Dollar General - Digital Coupons, Ads And More
+		- URL: https://play.google.com/store/apps/details?id=com.dollargeneral.android
+	Title: PoerSmart
+		- URL: https://play.google.com/store/apps/details?id=com.poersmart.smarthome
+	Title: Hass NFC
+		- URL: https://play.google.com/store/apps/details?id=com.gerbenbol.hassnfc
+	Title: dS Smart Home
+		- URL: https://play.google.com/store/apps/details?id=ch.digitalstrom.androidenduser
+	Title: SMART Systems Pro Connect
+		- URL: https://play.google.com/store/apps/details?id=com.smartsystemspro.sspsmartconnect
+	Title: VELUX ACTIVE with NETATMO
+		- URL: https://play.google.com/store/apps/details?id=com.velux.active
+	Title: LG ThinQ
+		- URL: https://play.google.com/store/apps/details?id=com.lgeha.nuts
+	Title: XPLORA 4&GO
+		- URL: https://play.google.com/store/apps/details?id=com.xplora.xplorago
+	Title: TCL Connect
+		- URL: https://play.google.com/store/apps/details?id=com.trackerandroid.trackerandroid
+	Title: SmartWatch Sync & Bluetooth notifier
+		- URL: https://play.google.com/store/apps/details?id=com.OnSoft.android.BluetoothChat
+	Title: Fibaro Home Center
+		- URL: https://play.google.com/store/apps/details?id=com.fibaro.homecenter
+	Title: Bosch Smart Gardening
+		- URL: https://play.google.com/store/apps/details?id=com.bosch.indegoconnect
+	Title: Stanley Smart Connect
+		- URL: https://play.google.com/store/apps/details?id=com.stanleyblackanddecker.stanleymeasure.android
+	Title: MyHOME_Up
+		- URL: https://play.google.com/store/apps/details?id=com.bticino.myhomeevo
+	Title: Verisure Cameras
+		- URL: https://play.google.com/store/apps/details?id=com.verisure.mymobile.android.ipcamxncompanion
+	Title: NFC ReTag PRO
+		- URL: https://play.google.com/store/apps/details?id=com.widgapp.NFC_ReTAG_PRO
+	Title: ESP8266 WiFi Robot Car
+		- URL: https://play.google.com/store/apps/details?id=com.bluino.esp8266wifirobotcar
+	Title: Zmodo
+		- URL: https://play.google.com/store/apps/details?id=com.zmodo
+	Title: Light Flow Pro - LED Control
+		- URL: https://play.google.com/store/apps/details?id=com.rageconsulting.android.lightflow
+	Title: Resideo Home
+		- URL: https://play.google.com/store/apps/details?id=com.resideo.rezi
+	Title: Netatmo Energy
+		- URL: https://play.google.com/store/apps/details?id=com.netatmo.thermostat
+	Title: Priority Health Member Portal
+		- URL: https://play.google.com/store/apps/details?id=com.priorityhealth.memberportal
+	Title: Aiwit
+		- URL: https://play.google.com/store/apps/details?id=com.eken.aiwit
+	Title: Doby
+		- URL: https://play.google.com/store/apps/details?id=com.cylan.jiafeigou.zhongxing
+	Title: GOM Remote - Remote Controller
+		- URL: https://play.google.com/store/apps/details?id=com.gretech.remote
+	Title: GREE+
+		- URL: https://play.google.com/store/apps/details?id=com.gree.greeplus
+	Title: HANSATON stream remote
+		- URL: https://play.google.com/store/apps/details?id=com.sonova.hansaton.rcapp
+	Title: Metrodroid
+		- URL: https://play.google.com/store/apps/details?id=au.id.micolous.farebot
+	Title: Ameren Mobile
+		- URL: https://play.google.com/store/apps/details?id=com.ameren.mobile
+	Title: RT310i
+		- URL: https://play.google.com/store/apps/details?id=com.saluscontrols.rt310i
+	Title: Pax Mobile
+		- URL: https://play.google.com/store/apps/details?id=com.pax.app
+	Title: ECHO Smart Control
+		- URL: https://play.google.com/store/apps/details?id=com.curtgroup
+	Title: World Medical Card
+		- URL: https://play.google.com/store/apps/details?id=no.wmc_card.dev1.app
+	Title: WeMoHome
+		- URL: https://play.google.com/store/apps/details?id=mpp.android.wemo.home
+	Title: Amazon Alexa Music, Cameras, & TV Control
+		- URL: https://play.google.com/store/apps/details?id=com.amazon.alexa.multimodal.tv
+	Title: PointCentral Home Automation
+		- URL: https://play.google.com/store/apps/details?id=com.alarm.alarmmobile.android.pointcentral
+	Title: Vuebell - Home Security Done Smart
+		- URL: https://play.google.com/store/apps/details?id=com.vuebell
+	Title: MQTT Alarm Control Panel
+		- URL: https://play.google.com/store/apps/details?id=com.thanksmister.iot.mqtt.alarmpanel
+	Title: Somfy myLink
+		- URL: https://play.google.com/store/apps/details?id=com.windriver.somfy
+	Title: Personal Shopping Assistant
+		- URL: https://play.google.com/store/apps/details?id=com.microsoft.psa
+	Title: Hue Pro
+		- URL: https://play.google.com/store/apps/details?id=com.benchevoor.huepro
+	Title: SoundWire
+		- URL: https://play.google.com/store/apps/details?id=com.georgie.SoundWire
+	Title: BluOS Controller
+		- URL: https://play.google.com/store/apps/details?id=com.lenbrook.sovi.bluesound
+	Title: Casambi
+		- URL: https://play.google.com/store/apps/details?id=casambi.ambi
+	Title: OctoRemote for OctoPrint
+		- URL: https://play.google.com/store/apps/details?id=com.kabacon.octoremote
+	Title: Nexx Home
+		- URL: https://play.google.com/store/apps/details?id=com.simpaltek.nexxhome
+	Title: tpPLC
+		- URL: https://play.google.com/store/apps/details?id=com.tplink.tpplc
+	Title: RICOH Smart Device Connector
+		- URL: https://play.google.com/store/apps/details?id=com.ricoh.smartdeviceconnector
+	Title: Avira Home Guard
+		- URL: https://play.google.com/store/apps/details?id=com.avira.homeapp
+	Title: TRUE MANAGER™ AIR
+		- URL: https://play.google.com/store/apps/details?id=com.niprodiagnostics.tmair
+	Title: Company & Warehouse Management
+		- URL: https://play.google.com/store/apps/details?id=magazzino.com.gestionemagazzino
+	Title: SIMPLEconnect® 2.0
+		- URL: https://play.google.com/store/apps/details?id=com.hunter.hunterWifiConnectAndroid
+	Title: MRCOOL SmartHVAC
+		- URL: https://play.google.com/store/apps/details?id=com.smarthvac
+	Title: iSPARKLE LIGHT
+		- URL: https://play.google.com/store/apps/details?id=com.maxvalley.isparkle
+	Title: Allina Health
+		- URL: https://play.google.com/store/apps/details?id=org.allinahealth.android
+	Title: RaspManager
+		- URL: https://play.google.com/store/apps/details?id=com.cea.raspmanager
+	Title: ArduController
+		- URL: https://play.google.com/store/apps/details?id=it.Ettore.arducontroller
+	Title: Virtuino
+		- URL: https://play.google.com/store/apps/details?id=com.virtuino_automations.virtuino
+	Title: VirtualCards-Loyalty Cards & Coupons Wallet
+		- URL: https://play.google.com/store/apps/details?id=ro.activesoft.virtualcard
+	Title: Endress+Hauser SmartBlue
+		- URL: https://play.google.com/store/apps/details?id=com.endress.smartblue
+	Title: iPrescribe
+		- URL: https://play.google.com/store/apps/details?id=com.drfirst.iprescribepro
+	Title: Ochsner Anywhere Care – See a provider 24/7
+		- URL: https://play.google.com/store/apps/details?id=org.ochsner.android.ochs.anywherecare
+	Title: Heart Rate Monitor
+		- URL: https://play.google.com/store/apps/details?id=com.bmi.hr_monitor
+	Title: Wisenet SmartCam+
+		- URL: https://play.google.com/store/apps/details?id=com.techwin.wisenetsmartcam
+	Title: BabyPhone Mobile: Baby Monitor
+		- URL: https://play.google.com/store/apps/details?id=com.babyphonemobile
+	Title: Hue Switcher for Philips Hue Bridges
+		- URL: https://play.google.com/store/apps/details?id=com.philips.hueswitcher.quickstart
+	Title: Philips HearLink
+		- URL: https://play.google.com/store/apps/details?id=com.philips.hearlink
+	Title: Brilliant Smart
+		- URL: https://play.google.com/store/apps/details?id=com.brilliantlighting.brain
+	Title: Twinkly
+		- URL: https://play.google.com/store/apps/details?id=com.twinkly
+	Title: Perenio Smart: Building Management System
+		- URL: https://play.google.com/store/apps/details?id=com.perenio.smarthome
+	Title: READfit
+		- URL: https://play.google.com/store/apps/details?id=com.hard.ruili
+	Title: ECOVACS HOME
+		- URL: https://play.google.com/store/apps/details?id=com.eco.global.app
+	Title: WELTBILD FIT
+		- URL: https://play.google.com/store/apps/details?id=com.shirajo.weltbild
+	Title: Clean Home +
+		- URL: https://play.google.com/store/apps/details?id=com.philips.ph.homecare
+	Title: DoorBird
+		- URL: https://play.google.com/store/apps/details?id=com.doorbird.doorbird
+	Title: Comelit
+		- URL: https://play.google.com/store/apps/details?id=com.comelit.bigapp
+	Title: iRobot Home
+		- URL: https://play.google.com/store/apps/details?id=com.irobot.home
+	Title: Dyson Link
+		- URL: https://play.google.com/store/apps/details?id=com.dyson.mobile.android
+	Title: Antelli - Hlasová Asistentka
+		- URL: https://play.google.com/store/apps/details?id=io.antelli.assistant
+	Title: Password Manager - SmartWho Keeper
+		- URL: https://play.google.com/store/apps/details?id=com.smartwho.smartpassword
+	Title: Rently Keyless
+		- URL: https://play.google.com/store/apps/details?id=rocks.keyless.app.android
+	Title: Tovala - Rethink Home Cooking
+		- URL: https://play.google.com/store/apps/details?id=com.tovala.tovala
+	Title: Mobike Global
+		- URL: https://play.google.com/store/apps/details?id=com.mobike.global
+	Title: PetSmart
+		- URL: https://play.google.com/store/apps/details?id=com.petsmart.consumermobile
+	Title: Tydom
+		- URL: https://play.google.com/store/apps/details?id=com.deltadore.tydom
+	Title: My Recipe Box : RecetteTek
+		- URL: https://play.google.com/store/apps/details?id=fr.recettetek
+	Title: LDS Ordinances & Tools
+		- URL: https://play.google.com/store/apps/details?id=appinventor.ai_jhpe_ac.LDS
+	Title: ManageEngine Password Manager Pro
+		- URL: https://play.google.com/store/apps/details?id=com.manageengine.pmp
+	Title: Mapon GO
+		- URL: https://play.google.com/store/apps/details?id=com.mapon.mapongo
+	Title: innovaphone myApps
+		- URL: https://play.google.com/store/apps/details?id=com.innovaphone.clientandroid
+	Title: Luxul Easy Setup App
+		- URL: https://play.google.com/store/apps/details?id=com.luxul.sidekick
+	Title: Day by Day Organizer
+		- URL: https://play.google.com/store/apps/details?id=ru.infteh.organizer.trial
+	Title: Home Assistant
+		- URL: https://play.google.com/store/apps/details?id=io.homeassistant.companion.android
+	Title: nTask: Task Management for teams
+		- URL: https://play.google.com/store/apps/details?id=com.ntask.android
+	Title: ProofHub: Project Management & Collaboration App
+		- URL: https://play.google.com/store/apps/details?id=com.proofhub
+	Title: The Smart Work Order app
+		- URL: https://play.google.com/store/apps/details?id=com.mobileop
+	Title: Clas Ohlson Home
+		- URL: https://play.google.com/store/apps/details?id=com.clasohlson.android.plug
+	Title: DEWALT Tool Connect
+		- URL: https://play.google.com/store/apps/details?id=com.dewalt.toolconnect
+	Title: De'Longhi Coffee Link
+		- URL: https://play.google.com/store/apps/details?id=it.delonghi
+	Title: Aruba Utilities
+		- URL: https://play.google.com/store/apps/details?id=com.arubanetworks.arubautilities
+	Title: WineStein the smart Sommelier
+		- URL: https://play.google.com/store/apps/details?id=com.winestein
+	Title: BLACK+DECKER
+		- URL: https://play.google.com/store/apps/details?id=com.stanleyblackanddecker.smartech
+	Title: Autel Explorer
+		- URL: https://play.google.com/store/apps/details?id=com.autelrobotics.explorer
+	Title: myQ: Smart Garage & Access Control
+		- URL: https://play.google.com/store/apps/details?id=com.chamberlain.android.liftmaster.myq
+	Title: Airthings Wave
+		- URL: https://play.google.com/store/apps/details?id=com.airthings.airthings
+	Title: ⭐️ Fridge Hero: Track Food Leftovers and Groceries
+		- URL: https://play.google.com/store/apps/details?id=com.hero.fridge
+	Title: Microsoft Teams
+		- URL: https://play.google.com/store/apps/details?id=com.microsoft.teams
+	Title: Microsoft Office: Word, Excel, PowerPoint & More
+		- URL: https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow
+	Title: Samsung Smart Switch Mobile
+		- URL: https://play.google.com/store/apps/details?id=com.sec.android.easyMover
+	Title: Dell Mobile Connect
+		- URL: https://play.google.com/store/apps/details?id=com.screenovate.dell.mobileconnect
+	Title: GI and glycemic load Lite
+		- URL: https://play.google.com/store/apps/details?id=ig.Indice_lite
+	Title: Device Care
+		- URL: https://play.google.com/store/apps/details?id=com.samsung.android.lool
+	Title: Collect: Save and share ideas
+		- URL: https://play.google.com/store/apps/details?id=com.wetransfer.app.live
+	Title: UPRIGHT GO 2
+		- URL: https://play.google.com/store/apps/details?id=com.uprightpose.upright_go2
+	Title: VASA Fitness
+		- URL: https://play.google.com/store/apps/details?id=com.vasafitness.members
+	Title: VeSync
+		- URL: https://play.google.com/store/apps/details?id=com.etekcity.vesyncplatform
+	Title: Smartbox
+		- URL: https://play.google.com/store/apps/details?id=com.smartbox.smartboxbeneficiary
+	Title: IP Camera Monitor – Video Surveillance Monitoring
+		- URL: https://play.google.com/store/apps/details?id=com.ip_camera_monitor
+	Title: IP Webcam
+		- URL: https://play.google.com/store/apps/details?id=com.pas.webcam
+	Title: mydlink
+		- URL: https://play.google.com/store/apps/details?id=com.dlink.mydlinkunified
+	Title: Ring - Always Home
+		- URL: https://play.google.com/store/apps/details?id=com.ringapp
+	Title: EWG's Healthy Living
+		- URL: https://play.google.com/store/apps/details?id=com.skindeep.mobile
+	Title: Yahoo - News, Mail, Sports
+		- URL: https://play.google.com/store/apps/details?id=com.yahoo.apps.yahooapp
+	Title: Security & Antivirus Guard
+		- URL: https://play.google.com/store/apps/details?id=com.sophos.appprotectionmonitor
+	Title: Screen Time & Parental Control App by ZenScreen
+		- URL: https://play.google.com/store/apps/details?id=io.zenlabs.zenfamily
+	Title: Medium
+		- URL: https://play.google.com/store/apps/details?id=com.medium.reader
+	Title: HubSpot
+		- URL: https://play.google.com/store/apps/details?id=com.hubspot.android
+	Title: Minimalist launcher for focus | Before Launcher
+		- URL: https://play.google.com/store/apps/details?id=com.beforesoft.launcher
+	Title: Xfinity xFi
+		- URL: https://play.google.com/store/apps/details?id=com.xfinity.digitalhome
+	Title: JYouPro
+		- URL: https://play.google.com/store/apps/details?id=com.jaga.ibraceletplus.keepfit
+	Title: CT FIT
+		- URL: https://play.google.com/store/apps/details?id=com.shirajo.ctfit
+	Title: SWISS
+		- URL: https://play.google.com/store/apps/details?id=com.yoc.swiss.swiss
+	Title: eSky - Flights, Hotels, Rent a car, Flight deals
+		- URL: https://play.google.com/store/apps/details?id=com.esky
+	Title: Aegean Airlines
+		- URL: https://play.google.com/store/apps/details?id=com.aegean.android
+	Title: WikiCamps USA
+		- URL: https://play.google.com/store/apps/details?id=au.com.angryrobot.wikicampsusa
+	Title: MiBand4 - WatchFace for Xiaomi Mi Band 4
+		- URL: https://play.google.com/store/apps/details?id=dev.rokitskiy.miband_watchface
+	Title: Master for Mi Band
+		- URL: https://play.google.com/store/apps/details?id=blacknote.mibandmaster
+	Title: Tools & Mi Band
+		- URL: https://play.google.com/store/apps/details?id=cz.zdenekhorak.mibandtools
+	Title: iRobot Home
+		- URL: https://play.google.com/store/apps/details?id=com.irobot.home
+	Title: Price My Cake
+		- URL: https://play.google.com/store/apps/details?id=com.vip.recipecalculator
+	Title: MyAlarm iFob Control
+		- URL: https://play.google.com/store/apps/details?id=au.com.myalarm.ifobcontrol
+	Title: Wuuk
+		- URL: https://play.google.com/store/apps/details?id=com.wuuklabs.android.store
+	Title: Siddur Tehillat Hashem – Linear Edition
+		- URL: https://play.google.com/store/apps/details?id=org.chabad.siddur.linear
+	Title: arboleaf
+		- URL: https://play.google.com/store/apps/details?id=com.qingniu.arboleaf
+	Title: Loftilla Plus
+		- URL: https://play.google.com/store/apps/details?id=com.qingniu.LoftillaPlus
+	Title: STARFACE Mobile Client
+		- URL: https://play.google.com/store/apps/details?id=de.starface
+	Title: myHummy
+		- URL: https://play.google.com/store/apps/details?id=com.myhummy.world.SzumisieAndroid
+	Title: Humanforce – Change the way you work
+		- URL: https://play.google.com/store/apps/details?id=com.humanforce.mobileapp
+	Title: Arizona Federal CardPower
+		- URL: https://play.google.com/store/apps/details?id=com.ondotsystems.azfcu.cardpower
+	Title: MoneyWise Pro
+		- URL: https://play.google.com/store/apps/details?id=com.handynorth.moneywise
+	Title: MoBill Budget and Reminder
+		- URL: https://play.google.com/store/apps/details?id=com.mobill.app
+	Title: Jiminy Parental Control App
+		- URL: https://play.google.com/store/apps/details?id=me.jiminy.child
+	Title: DIY Home Inspection
+		- URL: https://play.google.com/store/apps/details?id=com.esurance.diy
+	Title: ECHO Smart Control
+		- URL: https://play.google.com/store/apps/details?id=com.curtgroup
+	Title: HandiCalendar
+		- URL: https://play.google.com/store/apps/details?id=com.abilia.handicalendar
+	Title: ReSound Smart
+		- URL: https://play.google.com/store/apps/details?id=com.resound.smart
+	Title: eFamilyCloud
+		- URL: https://play.google.com/store/apps/details?id=com.efamily.cloud
+	Title: SmartHub
+		- URL: https://play.google.com/store/apps/details?id=coop.nisc.android.smarthub
+	Title: MEATER
+		- URL: https://play.google.com/store/apps/details?id=com.apptionlabs.meater_app
+	Title: KoolCode
+		- URL: https://play.google.com/store/apps/details?id=com.danfoss.koolcode2
+	Title: Wave: Your Health Tracker
+		- URL: https://play.google.com/store/apps/details?id=com.waveapp.android
+	Title: PrimeNap: Free Sleep Tracker
+		- URL: https://play.google.com/store/apps/details?id=com.primenap
+	Title: Staywell
+		- URL: https://play.google.com/store/apps/details?id=com.ihtech.p2m.staywell
+	Title: WICSmart - WIC Education
+		- URL: https://play.google.com/store/apps/details?id=com.jpma.wicsmart
+	Title: S6evo™
+		- URL: https://play.google.com/store/apps/details?id=com.sikkerthjem.s6evo
+	Title: smartAC Go
+		- URL: https://play.google.com/store/apps/details?id=com.thinkeco.app
+	Title: PowerLine PRO Unlock
+		- URL: https://play.google.com/store/apps/details?id=com.urbandroid.inline.donate
+	Title: METAControl
+		- URL: https://play.google.com/store/apps/details?id=de.baycom.atemcontrol
+	Title: eedomus
+		- URL: https://play.google.com/store/apps/details?id=com.eedomus.app
+	Title: Fuel & Costs - NoAds
+		- URL: https://play.google.com/store/apps/details?id=com.maze.android.fuelcosts.noads
+	Title: Square Appointments Beta
+		- URL: https://play.google.com/store/apps/details?id=com.squareup.apos.beta
+	Title: eTwist
+		- URL: https://play.google.com/store/apps/details?id=com.bdrthermea.roomunitapplication.remeha
+	Title: HandiCalendar
+		- URL: https://play.google.com/store/apps/details?id=com.abilia.handicalendar
+	Title: Smartfox Energiemanagement
+		- URL: https://play.google.com/store/apps/details?id=com.dafi.smartfoxnative
+	Title: Wear App Manager
+		- URL: https://play.google.com/store/apps/details?id=com.wearappmanager
+	Title: NavMusic - Wear OS Offline Music Media Nav Music
+		- URL: https://play.google.com/store/apps/details?id=com.turndapage.navmusic
+	Title: Instruments for Wear OS (Android Wear)
+		- URL: https://play.google.com/store/apps/details?id=com.appfour.wearinstruments
+	Title: AutomateIt Pro - Automate tasks on your Android
+		- URL: https://play.google.com/store/apps/details?id=AutomateItPro.mainPackage
+	Title: General Electric Credit Union
+		- URL: https://play.google.com/store/apps/details?id=com.ifs.banking.fiid1602
+	Title: FireBoard®
+		- URL: https://play.google.com/store/apps/details?id=io.fireboard.android
+	Title: Box Breathing
+		- URL: https://play.google.com/store/apps/details?id=org.box_breathing.app
+	Title: Good sleep - sleep cycle, alarm, snoring
+		- URL: https://play.google.com/store/apps/details?id=com.sailab.goodsleep
+	Title: Omada Mind
+		- URL: https://play.google.com/store/apps/details?id=com.lighthousemobile
+	Title: DEVI Smart
+		- URL: https://play.google.com/store/apps/details?id=com.danfoss.devi.smartapp
+	Title: IEHP Smart Care
+		- URL: https://play.google.com/store/apps/details?id=com.iehp
+	Title: Fieldwork Mobile
+		- URL: https://play.google.com/store/apps/details?id=com.anstar.fieldwork
+	Title: Control4 for OS 3
+		- URL: https://play.google.com/store/apps/details?id=com.control4.phoenix
+	Title: Govee Home
+		- URL: https://play.google.com/store/apps/details?id=com.govee.home
+	Title: Lutron Vive
+		- URL: https://play.google.com/store/apps/details?id=com.lutron.vive
+	Title: SmartPay Rewards
+		- URL: https://play.google.com/store/apps/details?id=com.cumberlandfarms.mobile
+	Title: My Firestone
+		- URL: https://play.google.com/store/apps/details?id=com.bsro.fcac
+	Title: BISSELL Connect
+		- URL: https://play.google.com/store/apps/details?id=com.bissell.bissellconnect
+	Title: LOCKLY®
+		- URL: https://play.google.com/store/apps/details?id=com.lockly.smartlock
+	Title: Miele Scout RX2
+		- URL: https://play.google.com/store/apps/details?id=de.miele.ScoutRX2
+	Title: SONOFY - Sonos Voice
+		- URL: https://play.google.com/store/apps/details?id=co.sonofy.smartroomsolutions
+	Title: AEP Ohio: It's Your Power
+		- URL: https://play.google.com/store/apps/details?id=com.powerley.aepohio
+	Title: 1Hub Mobile
+		- URL: https://play.google.com/store/apps/details?id=com.movista.crossmark
+	Title: Workforce for ArcGIS
+		- URL: https://play.google.com/store/apps/details?id=com.esri.workforce
+	Title: Awesome Navigator: Map navigation for Samsung gear
+		- URL: https://play.google.com/store/apps/details?id=com.awesomestuffstudio.awesomenavigator2
+	Title: Composer Express
+		- URL: https://play.google.com/store/apps/details?id=com.control4.composerexpressent
+	Title: Typewise Keyboard PRO Lifetime
+		- URL: https://play.google.com/store/apps/details?id=ch.icoaching.wrio
+	Title: Mighty Mule Smart Control App
+		- URL: https://play.google.com/store/apps/details?id=com.gto.gtoaccess
+	Title: Transport Data Logger
+		- URL: https://play.google.com/store/apps/details?id=com.bosch_connectivity.tdl
+	Title: Roof Hub
+		- URL: https://play.google.com/store/apps/details?id=roofhub.pro
+	Title: ParkMobile - Find Parking
+		- URL: https://play.google.com/store/apps/details?id=net.sharewire.parkmobilev2
+	Title: ParkHouston - Powered by Parkmobile
+		- URL: https://play.google.com/store/apps/details?id=net.sharewire.parkhouston
+	Title: meterUP - Powered by Parkmobile
+		- URL: https://play.google.com/store/apps/details?id=net.sharewire.meterUP
+	Title: MPLS Parking - Powered by Parkmobile
+		- URL: https://play.google.com/store/apps/details?id=net.sharewire.mplsparking
+	Title: Go Mobile PGH - Powered by Parkmobile
+		- URL: https://play.google.com/store/apps/details?id=net.sharewire.gomobilepgh
+	Title: Ride Smart Bus
+		- URL: https://play.google.com/store/apps/details?id=com.gw.smart
+	Title: MKE Park - Powered by Parkmobile
+		- URL: https://play.google.com/store/apps/details?id=net.sharewire.milwaukeev2
+	Title: UPnP receiver plugin for Yatse
+		- URL: https://play.google.com/store/apps/details?id=tv.yatse.plugin.avreceiver.upnp
+	Title: QuickCastPro Cast to Chromecast ROKU KODI Fire TV
+		- URL: https://play.google.com/store/apps/details?id=com.wukongtv.wkcast.intl.donate
+	Title: Wireless Studio Mobile
+		- URL: https://play.google.com/store/apps/details?id=com.sony.promobile.wsm
+	Title: Cast TV for Chromecast/Roku/Apple TV/Xbox/Fire TV
+		- URL: https://play.google.com/store/apps/details?id=com.castify
+	Title: Cast Videos: Web/IPTV/Phone to Roku/Chromecast/TV
+		- URL: https://play.google.com/store/apps/details?id=castify.roku
+	Title: Nero Streaming Player | Connect phone to Smart TV
+		- URL: https://play.google.com/store/apps/details?id=com.nero.streamingplayer
+	Title: Onkyo/Integra plugin for Yatse
+		- URL: https://play.google.com/store/apps/details?id=com.danielhstahl.plugin.avreceiver.onkyo
+	Title: Connect Drive
+		- URL: https://play.google.com/store/apps/details?id=com.sandisk.connect
+	Title: SMART TC°
+		- URL: https://play.google.com/store/apps/details?id=com.bdrthermea.roomunitapplication.dedietrich
+	Title: Florida 511
+		- URL: https://play.google.com/store/apps/details?id=com.greenowl.fdot.android
+	Title: MyBlock
+		- URL: https://play.google.com/store/apps/details?id=com.hrblock.blockmobile
+	Title: Greenlight
+		- URL: https://play.google.com/store/apps/details?id=me.greenlight
+	Title: Beacon 3D+
+		- URL: https://play.google.com/store/apps/details?id=to.hover.android.beacon
+	Title: Probuild (App for Contractors)
+		- URL: https://play.google.com/store/apps/details?id=com.probuildsoftware.probuild
+	Title: Clothesline
+		- URL: https://play.google.com/store/apps/details?id=com.kiosoft.clothesline
+	Title: Vuzix Companion
+		- URL: https://play.google.com/store/apps/details?id=com.vuzix.companion
+	Title: Sprint Home
+		- URL: https://play.google.com/store/apps/details?id=com.pepper.sprint
+	Title: MetroSMART Ride
+		- URL: https://play.google.com/store/apps/details?id=com.metropcs.metrosmartride
+	Title: JAYCOMMAND Powered by BMPRO
+		- URL: https://play.google.com/store/apps/details?id=au.com.setec.rvmaster.jayco.mobile
+	Title: SAMSUNG Smart Washer/Dryer
+		- URL: https://play.google.com/store/apps/details?id=com.samsung.washer
+	Title: Smart Tip Calculator
+		- URL: https://play.google.com/store/apps/details?id=com.dnbitstudio.smarttipcalculator
+	Title: Loftilla
+		- URL: https://play.google.com/store/apps/details?id=com.qingniu.Loftilla
+	Title: My C Spire
+		- URL: https://play.google.com/store/apps/details?id=com.cspire.mmx.android.mmx
+	Title: Bluetooth LE Smart Radar
+		- URL: https://play.google.com/store/apps/details?id=com.fruitmobile.bluetoothradar
+	Title: Cox Panoramic Wifi
+		- URL: https://play.google.com/store/apps/details?id=com.cox.panowifi
+	Title: Govee Home
+		- URL: https://play.google.com/store/apps/details?id=com.govee.home
+	Title: OctoDroid for GitHub
+		- URL: https://play.google.com/store/apps/details?id=com.gh4a
+	Title: TeamMeister - manage Groups & Teams
+		- URL: https://play.google.com/store/apps/details?id=eu.teammeister.androidApp
+	Title: Ameren Mobile
+		- URL: https://play.google.com/store/apps/details?id=com.ameren.mobile
+	Title: Free Multi Clipboard Manager
+		- URL: https://play.google.com/store/apps/details?id=com.cv.copybubble
+	Title: Straight Talk Transfer Wizard
+		- URL: https://play.google.com/store/apps/details?id=com.tracfone.mobiletransfer
+	Title: Mint Mobile
+		- URL: https://play.google.com/store/apps/details?id=com.uvnv.mintsim
+	Title: SPYPOINT
+		- URL: https://play.google.com/store/apps/details?id=com.spypoint.spypointApp
+	Title: Kevo
+		- URL: https://play.google.com/store/apps/details?id=com.unikey.kevo
+	Title: Yale Access
+		- URL: https://play.google.com/store/apps/details?id=com.august.bennu
+	Title: Eqiva Lock
+		- URL: https://play.google.com/store/apps/details?id=de.eq3.ble.key.android
+	Title: IntesisHome
+		- URL: https://play.google.com/store/apps/details?id=com.intesis.intesishome
+	Title: Wyze
+		- URL: https://play.google.com/store/apps/details?id=com.hualai
+	Title: NYC Bus Checker
+		- URL: https://play.google.com/store/apps/details?id=com.fatattitude.buscheckermta
+	Title: Clorox® Pool Care
+		- URL: https://play.google.com/store/apps/details?id=com.kikcorp.cloroxpool
+	Title: SPYPOINT
+		- URL: https://play.google.com/store/apps/details?id=com.spypoint.spypointApp
+	Title: AppCard-Buy. Earn. Redeem.
+		- URL: https://play.google.com/store/apps/details?id=com.appcard.appcard
+	Title: Sprint Direct Connect Plus™
+		- URL: https://play.google.com/store/apps/details?id=com.sprint.sdcplus
+	Title: goTenna
+		- URL: https://play.google.com/store/apps/details?id=com.gotenna.gotenna
+	Title: Truckster - Find Food Trucks
+		- URL: https://play.google.com/store/apps/details?id=com.truckster
+	Title: UltiPro Learning
+		- URL: https://play.google.com/store/apps/details?id=learning.ultipro
+	Title: Eaton SecureConnect
+		- URL: https://play.google.com/store/apps/details?id=com.eaton.ionSecurityConnectPanel
+	Title: OnTime Mobile
+		- URL: https://play.google.com/store/apps/details?id=com.vesigo.ontime.mobile
+	Title: Vircarda
+		- URL: https://play.google.com/store/apps/details?id=rpl.vircarda
+	Title: Smart Home Manager
+		- URL: https://play.google.com/store/apps/details?id=com.att.shm
+	Title: AT&T Secure Family Companion™
+		- URL: https://play.google.com/store/apps/details?id=com.att.securefamilycompanion
+	Title: Nobø Energy Control
+		- URL: https://play.google.com/store/apps/details?id=com.nobo.noboenergy
+	Title: Bluefruit Connect
+		- URL: https://play.google.com/store/apps/details?id=com.adafruit.bluefruit.le.connect
+	Title: HEOS
+		- URL: https://play.google.com/store/apps/details?id=com.dnm.heos.phone
+	Title: Bose Music
+		- URL: https://play.google.com/store/apps/details?id=com.bose.bosemusic
+	Title: JBL PROSCAN
+		- URL: https://play.google.com/store/apps/details?id=de.jbl.proscan
+	Title: Sonos
+		- URL: https://play.google.com/store/apps/details?id=com.sonos.acr2
+	Title: FluvalSmart
+		- URL: https://play.google.com/store/apps/details?id=com.inledco.fluvalsmart
+	Title: Sennheiser Smart Control
+		- URL: https://play.google.com/store/apps/details?id=com.sennheiser.control
+	Title: Bose SoundTouch
+		- URL: https://play.google.com/store/apps/details?id=com.bose.soundtouch
+	Title: BOOM & MEGABOOM by Ultimate Ears
+		- URL: https://play.google.com/store/apps/details?id=com.logitech.ueboom
+	Title: Teufel Raumfeld
+		- URL: https://play.google.com/store/apps/details?id=com.raumfeld.android.controller
+	Title: Litter-Robot Connect
+		- URL: https://play.google.com/store/apps/details?id=com.autopets.whiskers.android
+	Title: Marantz 2016 AVR Remote
+		- URL: https://play.google.com/store/apps/details?id=com.dmholdings.MarantzAVRRemote
+	Title: Cyclo-Sphere Control
+		- URL: https://play.google.com/store/apps/details?id=jp.pioneer.cyclesports.devicecontrol
+	Title: Dynaudio Music
+		- URL: https://play.google.com/store/apps/details?id=com.dynaudio.musicapp
+	Title: MusicCast CONTROLLER
+		- URL: https://play.google.com/store/apps/details?id=com.yamaha.av.musiccastcontroller
+	Title: SoundHound ∞ - Music Discovery & Hands-Free Player
+		- URL: https://play.google.com/store/apps/details?id=com.melodis.midomiMusicIdentifier
+	Title: Wearbuds
+		- URL: https://play.google.com/store/apps/details?id=com.aukey.wearbuds
+	Title: Poweramp Plugin Headset Voice Control
+		- URL: https://play.google.com/store/apps/details?id=zx.poweramp.control
+	Title: Sound Analyzer App
+		- URL: https://play.google.com/store/apps/details?id=com.dom.audioanalyzer
+	Title: Audio Cues
+		- URL: https://play.google.com/store/apps/details?id=org.radialtheater.audiocues
+	Title: Plantronics Hub
+		- URL: https://play.google.com/store/apps/details?id=com.plantronics.headsetservice
+	Title: AmpMe - Speaker Booster
+		- URL: https://play.google.com/store/apps/details?id=com.amp.android
+	Title: foobar2000 controller
+		- URL: https://play.google.com/store/apps/details?id=com.cav.foobar2000controller
+	Title: Sony | Music Center
+		- URL: https://play.google.com/store/apps/details?id=com.sony.songpal
+	Title: Remuda - USB Guitar Amplifier Control App
+		- URL: https://play.google.com/store/apps/details?id=com.tritoninteractive.remuda
+	Title: Smart Pianist
+		- URL: https://play.google.com/store/apps/details?id=jp.co.yamaha.smartpianist
+	Title: My Rush Mobile
+		- URL: https://play.google.com/store/apps/details?id=edu.rush.mobile
+	Title: Qmix-UC
+		- URL: https://play.google.com/store/apps/details?id=com.presonus.qmix
+	Title: Custom Control App
+		- URL: https://play.google.com/store/apps/details?id=com.allenheath.customcontroller.androidrunner
+	Title: Mixing Station X Air Pro
+		- URL: https://play.google.com/store/apps/details?id=com.davidgiga1993.mixingstation.xairpro
+	Title: Linn Kazoo
+		- URL: https://play.google.com/store/apps/details?id=uk.co.linn.kazoo
+	Title: foobar2000 controller PRO
+		- URL: https://play.google.com/store/apps/details?id=com.cav.foobar2000controllerpro
+	Title: TouchOSC
+		- URL: https://play.google.com/store/apps/details?id=net.hexler.touchosc_a
+	Title: Squeeze Controller
+		- URL: https://play.google.com/store/apps/details?id=de.lkamp.android.SqueezeBoxController
+	Title: Knobby volume control - Unique volume widget app
+		- URL: https://play.google.com/store/apps/details?id=com.bhanu.knoby.knobvolumecontrol
+	Title: Next Track: Skip tracks with volume buttons
+		- URL: https://play.google.com/store/apps/details?id=com.flar2.volumeskip
+	Title: TechnoBase.FM - We aRe oNe
+		- URL: https://play.google.com/store/apps/details?id=fm.weareone.player
+	Title: NRJ Belgique
+		- URL: https://play.google.com/store/apps/details?id=fr.redshift.nrjbelgique
+	Title: mconnect control
+		- URL: https://play.google.com/store/apps/details?id=com.conversdigital.controlpaid
+	Title: JBL PROSCAN
+		- URL: https://play.google.com/store/apps/details?id=de.jbl.proscan
+	Title: Loud Player Free
+		- URL: https://play.google.com/store/apps/details?id=com.arthelion.loudplayer
+	Title: EQ - Music Player Equalizer
+		- URL: https://play.google.com/store/apps/details?id=com.djit.apps.eq.free
+	Title: EQ & Bass Booster Pro - metal
+		- URL: https://play.google.com/store/apps/details?id=music.volume.equalizer.bassbooster.virtualizer.pay
+	Title: WorryTree
+		- URL: https://play.google.com/store/apps/details?id=com.worrytree.worrytree
+	Title: TouchDAW
+		- URL: https://play.google.com/store/apps/details?id=de.humatic.tdaw
+	Title: Appcompanist
+		- URL: https://play.google.com/store/apps/details?id=com.appcompanist.appcompanist
+	Title: Violy 🎻Smart Music Classroom 🎼
+		- URL: https://play.google.com/store/apps/details?id=com.lianqinba.lian
+	Title: Kalimba
+		- URL: https://play.google.com/store/apps/details?id=com.thredamp.kalimbasim
+	Title: ManaBox MTG
+		- URL: https://play.google.com/store/apps/details?id=skilldevs.com.manabox
+	Title: Archenemy - MTG Companion
+		- URL: https://play.google.com/store/apps/details?id=com.magic.companion.archenemy
+	Title: Planechase - MTG Companion
+		- URL: https://play.google.com/store/apps/details?id=com.roberto.planechase
+	Title: Nucleus Smart
+		- URL: https://play.google.com/store/apps/details?id=com.cochlear.clientremote
+	Title: easyTek
+		- URL: https://play.google.com/store/apps/details?id=com.hearing.healthcare.siemens.easyTekApp
+	Title: MMRemote
+		- URL: https://play.google.com/store/apps/details?id=net.erlenddahl.mmremotefree
+	Title: EV QuickSmart Mobile
+		- URL: https://play.google.com/store/apps/details?id=com.detroitlabs.electrovoice
+	Title: Avid Control
+		- URL: https://play.google.com/store/apps/details?id=com.avid.avidcontrol
+	Title: TouchTunes
+		- URL: https://play.google.com/store/apps/details?id=com.touchtunes.android
+	Title: MPDroid
+		- URL: https://play.google.com/store/apps/details?id=com.namelessdev.mpdroid
+	Title: Chaos Magick
+		- URL: https://play.google.com/store/apps/details?id=chaos.servers.com.chaosmagickeng
+	Title: FluvalSmart
+		- URL: https://play.google.com/store/apps/details?id=com.inledco.fluvalsmart
+	Title: OC Bus Mobile Ticketing
+		- URL: https://play.google.com/store/apps/details?id=org.ocbus.riderapp
+	Title: Sennheiser Smart Control
+		- URL: https://play.google.com/store/apps/details?id=com.sennheiser.control
+	Title: s.mart PLUS Chords
+		- URL: https://play.google.com/store/apps/details?id=de.smartchord.droid.plus.chord
+	Title: EQ PRO Music Player Equalizer
+		- URL: https://play.google.com/store/apps/details?id=com.djit.apps.eq.pro
+	Title: Panic Relief- stop anxiety now
+		- URL: https://play.google.com/store/apps/details?id=com.indention.panicrelief
+	Title: AutoMate - Car Dashboard: Driving & Navigation
+		- URL: https://play.google.com/store/apps/details?id=com.bitspice.automate
+	Title: s.mart Circle of Fifths
+		- URL: https://play.google.com/store/apps/details?id=de.smartchord.droid.plug.cof
+	Title: Pioneer Smart Sync
+		- URL: https://play.google.com/store/apps/details?id=jp.pioneer.carsync
+	Title: SoundHound - Music Discovery & Lyrics
+		- URL: https://play.google.com/store/apps/details?id=com.melodis.midomiMusicIdentifier.freemium
+	Title: MonitorMix
+		- URL: https://play.google.com/store/apps/details?id=jp.co.yamaha.pa.monitormix
+	Title: fidata Music App
+		- URL: https://play.google.com/store/apps/details?id=jp.iodata.fidata
+	Title: meepl
+		- URL: https://play.google.com/store/apps/details?id=com.fision
+	Title: Lux Manager
+		- URL: https://play.google.com/store/apps/details?id=com.samsung.android.app.sbottle
+	Title: Samsung SmartCam
+		- URL: https://play.google.com/store/apps/details?id=com.techwin.shc
+	Title: uSound for Samsung - Hearing test
+		- URL: https://play.google.com/store/apps/details?id=co.newbrick.usoundporsamsung
+	Title: Lifelog
+		- URL: https://play.google.com/store/apps/details?id=com.sonymobile.lifelog
+	Title: Nuvo Player
+		- URL: https://play.google.com/store/apps/details?id=com.nuvo.android
+	Title: Mixing Station XM32
+		- URL: https://play.google.com/store/apps/details?id=com.davidgiga1993.mixingstation
+	Title: Frequency Generator - Audio Tools & Ultrasound
+		- URL: https://play.google.com/store/apps/details?id=com.boedec.hoel.frequencygenerator
+	Title: SoundAssistant
+		- URL: https://play.google.com/store/apps/details?id=com.samsung.android.soundassistant
+	Title: Ultra Volume: Custom Volume Slider Panel & Themes
+		- URL: https://play.google.com/store/apps/details?id=com.treydev.volume
+	Title: Bernafon EasyControl-A
+		- URL: https://play.google.com/store/apps/details?id=com.bernafon.easycontrola
+	Title: UNIVERGE ST500
+		- URL: https://play.google.com/store/apps/details?id=com.nec.android.endd.univerge.st.st500
+	Title: Wearable Widgets
+		- URL: https://play.google.com/store/apps/details?id=com.wearablewidgets
+	Title: PowerMic Mobile
+		- URL: https://play.google.com/store/apps/details?id=com.Nuance.Mobility.DMic.Live
+	Title: Wakelock Revamp - PowerManager
+		- URL: https://play.google.com/store/apps/details?id=eu.thedarken.wldonate
+	Title: Wear Audio Recorder
+		- URL: https://play.google.com/store/apps/details?id=com.rimidalv.dictaphone
+	Title: Xperia Transfer Mobile
+		- URL: https://play.google.com/store/apps/details?id=com.sonymobile.xperiatransfermobile
+	Title: Droid Hardware Info
+		- URL: https://play.google.com/store/apps/details?id=com.inkwired.droidinfo
+	Title: shadowy | Xperia™ Theme + icons
+		- URL: https://play.google.com/store/apps/details?id=com.thegosa.shadowy
+	Title: Board | Xperia™ Theme + icons
+		- URL: https://play.google.com/store/apps/details?id=com.thegosa.board.theme
+	Title: LG Wi-Fi Speaker
+		- URL: https://play.google.com/store/apps/details?id=com.lge.media.lgsmartspeaker
+	Title: LG TONE Free
+		- URL: https://play.google.com/store/apps/details?id=com.lge.tonentalkplus.tonentalkfree
+	Title: LG SIMs 2.0 [Wi-Fi only]
+		- URL: https://play.google.com/store/apps/details?id=com.tiersis.LGSIMS
+	Title: MaterialPods (AirPod battery app )
+		- URL: https://play.google.com/store/apps/details?id=com.pryshedko.materialpods
+	Title: MATRIC - PC control
+		- URL: https://play.google.com/store/apps/details?id=tbm.matric.client
+	Title: Signia App
+		- URL: https://play.google.com/store/apps/details?id=com.signia.rta
+	Title: PowerLine 🔋 On screen battery, signal, data lines
+		- URL: https://play.google.com/store/apps/details?id=com.urbandroid.inline
+	Title: Smart Tutor for SAMSUNG Mobile
+		- URL: https://play.google.com/store/apps/details?id=com.rsupport.rs.activity.rsupport.aas2
+	Title: Music Flow Bluetooth
+		- URL: https://play.google.com/store/apps/details?id=com.lge.media.lgbluetoothremote2015
+	Title: Let's Sing Mic
+		- URL: https://play.google.com/store/apps/details?id=com.voxler.ls2018CompanionApp.PS4
+	Title: PS4 Second Screen
+		- URL: https://play.google.com/store/apps/details?id=com.playstation.mobile2ndscreen
+	Title: Mixing Station X Air
+		- URL: https://play.google.com/store/apps/details?id=com.davidgiga1993.mixingstation.xair
+	Title: Integra Control Pro
+		- URL: https://play.google.com/store/apps/details?id=com.onkyo.jp.integracontroller
+	Title: Sound Tune
+		- URL: https://play.google.com/store/apps/details?id=jp.pioneer.mle.soundtune
+	Title: PhoenixStudio
+		- URL: https://play.google.com/store/apps/details?id=com.henrikrydgard.phoenixstudio
+	Title: VVT Tickets
+		- URL: https://play.google.com/store/apps/details?id=at.vtg.tickets
+	Title: Roost Smart Home
+		- URL: https://play.google.com/store/apps/details?id=com.smartroost.app
+	Title: Zoom Rooms
+		- URL: https://play.google.com/store/apps/details?id=us.zoom.zrc
+	Title: AliExpress - Smarter Shopping, Better Living
+		- URL: https://play.google.com/store/apps/details?id=com.alibaba.aliexpresshd
+	Title: Opera Mini - fast web browser
+		- URL: https://play.google.com/store/apps/details?id=com.opera.mini.native
+	Title: Deckboard - Computer Macros and OBS Remote
+		- URL: https://play.google.com/store/apps/details?id=com.rivafarabi.deckboard
+	Title: Brain Games: IQ Challenge
+		- URL: https://play.google.com/store/apps/details?id=com.game.jam.brain.puzzle.iq.challenge.test
+	Title: Teleprompter & Video Subtitles - Vlog Maker BIGVU
+		- URL: https://play.google.com/store/apps/details?id=bigvu.com.reporter
+	Title: Smart Video Crop - Crop any part of any video
+		- URL: https://play.google.com/store/apps/details?id=com.clogica.videocrop
+	Title: Maki for Facebook and Messenger
+		- URL: https://play.google.com/store/apps/details?id=com.sunshine.makilite
+	Title: Kodi
+		- URL: https://play.google.com/store/apps/details?id=org.xbmc.kodi
+	Title: ستارزبلاي STARZPLAY
+		- URL: https://play.google.com/store/apps/details?id=com.parsifal.starz
+	Title: HBO Max: Stream HBO, TV, Movies & More
+		- URL: https://play.google.com/store/apps/details?id=com.hbo.hbonow
+	Title: Photo Overlays - Blender
+		- URL: https://play.google.com/store/apps/details?id=com.topfreeapps.photoblender
+	Title: QRcode & Barcode Scanner
+		- URL: https://play.google.com/store/apps/details?id=tools.scanner.barcodescan
+	Title: Cards - Mobile Wallet
+		- URL: https://play.google.com/store/apps/details?id=com.cardsapp.android
+	Title: 🚨 Earthquake Network - Realtime alerts
+		- URL: https://play.google.com/store/apps/details?id=com.finazzi.distquake
+	Title: Quibi: All New Original Shows
+		- URL: https://play.google.com/store/apps/details?id=com.quibi.qlient
+	Title: Streamlabs Deck
+		- URL: https://play.google.com/store/apps/details?id=com.streamlabs.slobsrc
+	Title: Braindom: Tricky Brain Puzzle, Mind Games, IQ Test
+		- URL: https://play.google.com/store/apps/details?id=com.braindom
+	Title: Brain Buzz: Quick & Fun Social Games
+		- URL: https://play.google.com/store/apps/details?id=com.CrosProduct.numeris
+	Title: TeeHub for Twitter & Tumblr
+		- URL: https://play.google.com/store/apps/details?id=com.okmarco.teehub
+	Title: myViewBoard Companion
+		- URL: https://play.google.com/store/apps/details?id=com.viewsonic.myviewboard
+	Title: LiveHome
+		- URL: https://play.google.com/store/apps/details?id=com.eken.doorbell
+	Title: AISEE
+		- URL: https://play.google.com/store/apps/details?id=com.aisee.win
+	Title: Maginon IPC Viewer
+		- URL: https://play.google.com/store/apps/details?id=com.supra_elektronik.ipcviewer
+	Title: Comelit Visto
+		- URL: https://play.google.com/store/apps/details?id=com.gooclient.anycam.visto
+	Title: Inim Home
+		- URL: https://play.google.com/store/apps/details?id=it.inim.inimutenti
+	Title: Konica Minolta Mobile Print
+		- URL: https://play.google.com/store/apps/details?id=com.konicaminolta.mobileprint
+	Title: Canon PRINT Inkjet/SELPHY
+		- URL: https://play.google.com/store/apps/details?id=jp.co.canon.bsd.ad.pixmaprint
+	Title: 3D Fox Pro, Printer Controller
+		- URL: https://play.google.com/store/apps/details?id=com.fox3d.controller.pro
+	Title: WirelessMobileUtility
+		- URL: https://play.google.com/store/apps/details?id=com.nikon.wu.wmau
+	Title: Connector --- Motor That Talks Back
+		- URL: https://play.google.com/store/apps/details?id=com.smarthome.app.connector
+	Title: GCodePrintr - The 3D Print App
+		- URL: https://play.google.com/store/apps/details?id=de.dietzm.gcodesimulatorprinter
+	Title: Lexmark Mobile Assistant
+		- URL: https://play.google.com/store/apps/details?id=com.lexmark.mobile.mobileassistant
+	Title: IP Camera Pro
+		- URL: https://play.google.com/store/apps/details?id=com.shenyaocn.android.WebCamPro
+	Title: Ethica
+		- URL: https://play.google.com/store/apps/details?id=com.ethica.logger
+	Title: Calendar: Meeting & Scheduling
+		- URL: https://play.google.com/store/apps/details?id=com.calendar.mobile
+	Title: Taskworld
+		- URL: https://play.google.com/store/apps/details?id=com.taskworld.enterprise.Cordoworld
+	Title: IncoPOS - Point of Sale
+		- URL: https://play.google.com/store/apps/details?id=com.vladster.app.IncoDroid.POS
+	Title: Business Card Reader for HubSpot CRM by M1MW
+		- URL: https://play.google.com/store/apps/details?id=com.magneticonemobile.businesscardreader.hubspotcrm
+	Title: Egencia
+		- URL: https://play.google.com/store/apps/details?id=com.egencia.app
+	Title: Stage: Whiteboard and Camera
+		- URL: https://play.google.com/store/apps/details?id=com.belkin.stage
+	Title: DrawExpress Diagram
+		- URL: https://play.google.com/store/apps/details?id=com.drawexpress.full
+	Title: Whiteboard
+		- URL: https://play.google.com/store/apps/details?id=cn.readpad.whiteboard
+	Title: DrawExpress Diagram Lite
+		- URL: https://play.google.com/store/apps/details?id=com.drawexpress.lite
+	Title: EAGLE Security UNLIMITED
+		- URL: https://play.google.com/store/apps/details?id=com.integer.eaglesecurity_unlim
+	Title: Yale View
+		- URL: https://play.google.com/store/apps/details?id=com.mm.android.yale
+	Title: SolarEdge Inverter SetApp: Commissioning Made Easy
+		- URL: https://play.google.com/store/apps/details?id=com.solaredge.apps.activator
+	Title: Scaffolding App - Assisting scaffolding businesses
+		- URL: https://play.google.com/store/apps/details?id=de.scaffolding.app
+	Title: Clean Smarts
+		- URL: https://play.google.com/store/apps/details?id=com.cleansmarts.app
+	Title: fitpolo
+		- URL: https://play.google.com/store/apps/details?id=com.moko.fitpolo
+	Title: WoFit
+		- URL: https://play.google.com/store/apps/details?id=com.tkl.fitup
+	Title: iAquaLink
+		- URL: https://play.google.com/store/apps/details?id=com.zodiac.iaqualink
+	Title: Panasonic MobileSoftphone
+		- URL: https://play.google.com/store/apps/details?id=com.panasonic.MobileSoftphoneV3
+	Title: UltraSync +
+		- URL: https://play.google.com/store/apps/details?id=com.uhssystems.ultrasyncplus
+	Title: Vijeo Design'Air
+		- URL: https://play.google.com/store/apps/details?id=com.schneider_electric.VijeoDesignAir
+	Title: Nero Streaming Player Pro | Connect phone to TV
+		- URL: https://play.google.com/store/apps/details?id=com.nero.streamingplayer.pro
+	Title: VirtualTablet (S-Pen)
+		- URL: https://play.google.com/store/apps/details?id=com.sunnysidesoft.VirtualTablet
+	Title: neutriNote: Markdown with Math in Just 3 MB
+		- URL: https://play.google.com/store/apps/details?id=com.appmindlab.nano
+	Title: 360Robot - 360smart
+		- URL: https://play.google.com/store/apps/details?id=com.qihoo.smarthome
+	Title: Camera Blocker & Guard With Anti Spyware
+		- URL: https://play.google.com/store/apps/details?id=com.protectstar.cameraguardfree
+	Title: Cricket Explore
+		- URL: https://play.google.com/store/apps/details?id=com.smithmicro.viewspot.cricket.cricketexplore
+	Title: Tapkey
+		- URL: https://play.google.com/store/apps/details?id=net.tpky.mc
+	Title: RAV FileHub
+		- URL: https://play.google.com/store/apps/details?id=ravpower.wd.activities
+	Title: DVD Profiler
+		- URL: https://play.google.com/store/apps/details?id=com.invelos.dvdprofiler
+	Title: My Verisure
+		- URL: https://play.google.com/store/apps/details?id=com.securitasdirect.android.mycontrol
+	Title: Comelit View S
+		- URL: https://play.google.com/store/apps/details?id=com.comelitgroup.views
+	Title: Yoosee
+		- URL: https://play.google.com/store/apps/details?id=com.yoosee
+	Title: PdaNet+
+		- URL: https://play.google.com/store/apps/details?id=com.pdanet
+	Title: FocusMDM
+		- URL: https://play.google.com/store/apps/details?id=org.commcare.devicepolicycontroller
+	Title: 4remote BT
+		- URL: https://play.google.com/store/apps/details?id=casambi.tridonic
+	Title: Smart Family Companion
+		- URL: https://play.google.com/store/apps/details?id=com.verizon.familybase.companion
+	Title: Geeni
+		- URL: https://play.google.com/store/apps/details?id=com.merkuryinnovations.geeni
+	Title: NightOwl Companion
+		- URL: https://play.google.com/store/apps/details?id=com.ectosense.nightowl
+	Title: TASC app for Android
+		- URL: https://play.google.com/store/apps/details?id=com.tasconline.uba.pux.android
+	Title: CareSmartz360⁺
+		- URL: https://play.google.com/store/apps/details?id=com.caresmartz360.pro
+	Title: ECOVACS HOME
+		- URL: https://play.google.com/store/apps/details?id=com.eco.global.app
+	Title: Castle Link
+		- URL: https://play.google.com/store/apps/details?id=com.caslecreations.castlelink
+	Title: NetSfere Secure Messaging
+		- URL: https://play.google.com/store/apps/details?id=com.infinite.netsfere
+	Title: Roku Remote Control - RemRoku
+		- URL: https://play.google.com/store/apps/details?id=org.shadow.remroku
+	Title: My Consumer Cellular
+		- URL: https://play.google.com/store/apps/details?id=cci.usage
+	Title: United Community Bank
+		- URL: https://play.google.com/store/apps/details?id=com.unitedcommunitybank3402.mobile
+	Title: HomeHabit
+		- URL: https://play.google.com/store/apps/details?id=app.homehabit.view
+	Title: Automower Connect
+		- URL: https://play.google.com/store/apps/details?id=com.husqvarna.automowerconnect
+	Title: mo.ride - make your bike smart
+		- URL: https://play.google.com/store/apps/details?id=com.motogadget.mapp
+	Title: HUAWEI AI Life
+		- URL: https://play.google.com/store/apps/details?id=com.huaweioverseas.smarthome
+	Title: Ultra Mobile
+		- URL: https://play.google.com/store/apps/details?id=com.uvnv.ultramobile
+	Title: Memory Booster (Full Version)
+		- URL: https://play.google.com/store/apps/details?id=imoblife.memorybooster.full
+	Title: WiFile Explorer
+		- URL: https://play.google.com/store/apps/details?id=com.tools.netgel.wifile
+	Title: Skit Premium
+		- URL: https://play.google.com/store/apps/details?id=com.pavelrekun.skit.premium
+	Title: Advanced Car Eye 2.0
+		- URL: https://play.google.com/store/apps/details?id=com.bmw.ace2
+	Title: Viper SmartStart
+		- URL: https://play.google.com/store/apps/details?id=com.directed.android.viper
+	Title: Control App for Nissan Leaf, Nissan eNV200
+		- URL: https://play.google.com/store/apps/details?id=com.chk.lcc
+	Title: USA Truck Driver Hub
+		- URL: https://play.google.com/store/apps/details?id=com.usatruck.app
+	Title: Roav Charger
+		- URL: https://play.google.com/store/apps/details?id=com.chipsguide.app.roav.fmplayer
+	Title: FRITZ!App WLAN
+		- URL: https://play.google.com/store/apps/details?id=de.avm.android.wlanapp
+	Title: FastHub for GitHub
+		- URL: https://play.google.com/store/apps/details?id=com.fastaccess.github
+	Title: Chirp Access
+		- URL: https://play.google.com/store/apps/details?id=com.chirp.access
+	Title: Acode - powerful code editor
+		- URL: https://play.google.com/store/apps/details?id=com.foxdebug.acode
+	Title: Cast to TV - Chromecast, Roku, stream phone to TV
+		- URL: https://play.google.com/store/apps/details?id=cast.video.screenmirroring.casttotv
+	Title: Cast to TV: Chromecast, Roku, Fire TV, Xbox, IPTV
+		- URL: https://play.google.com/store/apps/details?id=castwebbrowsertotv.castwebvideo.webvideocaster
+	Title: EZCast – Cast Media to TV
+		- URL: https://play.google.com/store/apps/details?id=com.actionsmicro.ezcast
+	Title: Puffin TV Browser
+		- URL: https://play.google.com/store/apps/details?id=com.cloudmosa.puffinTV
+	Title: Send files to TV
+		- URL: https://play.google.com/store/apps/details?id=com.yablio.sendfilestotv
+	Title: Phone Clone
+		- URL: https://play.google.com/store/apps/details?id=com.hicloud.android.clone
+	Title: LG TV Plus
+		- URL: https://play.google.com/store/apps/details?id=com.lge.app1
+	Title: Google Home
+		- URL: https://play.google.com/store/apps/details?id=com.google.android.apps.chromecast.app
+	Title: Screen Mirroring, Cast Phone To TV - Castto
+		- URL: https://play.google.com/store/apps/details?id=com.soomapps.screenmirroring
+	Title: PC Remote
+		- URL: https://play.google.com/store/apps/details?id=com.monect.portable
+	Title: Mirror
+		- URL: https://play.google.com/store/apps/details?id=mmapps.mirror.free
+	Title: Web Browser & Explorer
+		- URL: https://play.google.com/store/apps/details?id=com.explore.web.browser
+	Title: Web Browser - Fast, Private & News
+		- URL: https://play.google.com/store/apps/details?id=fast.private.secure.browser
+	Title: Web Browser ( Fast & Secure Web Explorer)
+		- URL: https://play.google.com/store/apps/details?id=web.browser.emu.explorer
+	Title: Gallery Cast Pro
+		- URL: https://play.google.com/store/apps/details?id=com.homesoft.gallerycast.full
+	Title: Keyboard for Wear OS (Android Wear)
+		- URL: https://play.google.com/store/apps/details?id=com.appfour.wearkeyboard
+	Title: Voice Search - Speech to Text Searching Assistant
+		- URL: https://play.google.com/store/apps/details?id=com.prometheusinteractive.voice_launcher
+	Title: Assistant for Android
+		- URL: https://play.google.com/store/apps/details?id=com.advancedprocessmanager
+	Title: Voice Recorder
+		- URL: https://play.google.com/store/apps/details?id=com.ivymobi.voicerecorder.free
+	Title: LetsView - Free Wireless Display
+		- URL: https://play.google.com/store/apps/details?id=com.apowersoft.letsview
+	Title: Screen Stream Mirroring
+		- URL: https://play.google.com/store/apps/details?id=com.mobzapp.screenstream.trial
+	Title: ApowerMirror - Screen Mirroring for PC/TV/Phone
+		- URL: https://play.google.com/store/apps/details?id=com.apowersoft.mirror
+	Title: CamON Live Streaming
+		- URL: https://play.google.com/store/apps/details?id=com.spynet.camon
+	Title: MyPhoneExplorer Client
+		- URL: https://play.google.com/store/apps/details?id=com.fjsoft.myphoneexplorer.client
+	Title: Microsoft SwiftKey Keyboard
+		- URL: https://play.google.com/store/apps/details?id=com.touchtype.swiftkey
+	Title: Video & TV SideView : Remote
+		- URL: https://play.google.com/store/apps/details?id=com.sony.tvsideview.phone
+	Title: SmartTv Service Remote Control
+		- URL: https://play.google.com/store/apps/details?id=by.makarov.smarttvrc
+	Title: Music Boss for Pebble - Control Your Music
+		- URL: https://play.google.com/store/apps/details?id=ca.rebootsramblings.musicboss
+	Title: Clean Home +
+		- URL: https://play.google.com/store/apps/details?id=com.philips.ph.homecare
+	Title: Bond Home
+		- URL: https://play.google.com/store/apps/details?id=io.olibra.bondapp
+	Title: Amazing Flashlight
+		- URL: https://play.google.com/store/apps/details?id=com.loomatix.flashlight
+	Title: QGroundControl (Daily Test Build)
+		- URL: https://play.google.com/store/apps/details?id=org.mavlink.qgroundcontrolbeta
+	Title: MonBaby Smart Button
+		- URL: https://play.google.com/store/apps/details?id=com.monbaby001
+	Title: LED Blinker Notifications Pro -AoD-Manage lights💡
+		- URL: https://play.google.com/store/apps/details?id=com.ledblinker.pro
+	Title: Hao Deng
+		- URL: https://play.google.com/store/apps/details?id=com.zengge.telinkmeshlight
+	Title: Door Entry CLASSE100X
+		- URL: https://play.google.com/store/apps/details?id=com.legrandgroup.c100x
+	Title: Blink - The Employee App
+		- URL: https://play.google.com/store/apps/details?id=com.usekimono.android
+	Title: Spectrum Mobile Account
+		- URL: https://play.google.com/store/apps/details?id=com.spectrum.Spec_Mobile
+	Title: Momentum CRM Mobile
+		- URL: https://play.google.com/store/apps/details?id=com.momentumcrm.momentummobile
+	Title: SmartRide (Joined before 6/6)
+		- URL: https://play.google.com/store/apps/details?id=com.nationwide.smartride
+	Title: EV JuiceNet
+		- URL: https://play.google.com/store/apps/details?id=com.emotorwerks.juicebox
+	Title: Preventicus Heartbeats. ECG alike medical test.
+		- URL: https://play.google.com/store/apps/details?id=com.preventicus.heartbeats_international
+	Title: mySolarEdge
+		- URL: https://play.google.com/store/apps/details?id=com.solaredge.homeowner
+	Title: EagleEyes(Lite)
+		- URL: https://play.google.com/store/apps/details?id=push.lite.avtech.com
+	Title: Lollipop - Smart baby monitor
+		- URL: https://play.google.com/store/apps/details?id=com.aoitek.lollipop
+	Title: Mentor® DSP by eDriving℠
+		- URL: https://play.google.com/store/apps/details?id=com.edriving.mentor.amazon
+	Title: Route - Package Tracker for Your Online Orders
+		- URL: https://play.google.com/store/apps/details?id=com.route.app
+	Title: Iriun 4K Webcam for PC and Mac
+		- URL: https://play.google.com/store/apps/details?id=com.jacksoftw.webcam
+	Title: IP Webcam Pro
+		- URL: https://play.google.com/store/apps/details?id=com.pas.webcam.pro
+	Title: ProControl+
+		- URL: https://play.google.com/store/apps/details?id=com.mcu.Pyronix
+	Title: Twomon USB - USB Monitor
+		- URL: https://play.google.com/store/apps/details?id=com.devguru.eltwomonusb
+	Title: SocialDiabetes. Take control of your diabetes
+		- URL: https://play.google.com/store/apps/details?id=com.socialdiabetes.android
+	Title: Easy Diabetes
+		- URL: https://play.google.com/store/apps/details?id=com.easy.diabetes
+	Title: Glucose Buddy Diabetes Tracker
+		- URL: https://play.google.com/store/apps/details?id=com.skyhealth.glucosebuddyfree
+	Title: YCC365
+		- URL: https://play.google.com/store/apps/details?id=com.ycc365closeli.aws
+	Title: Smart911
+		- URL: https://play.google.com/store/apps/details?id=com.ravemobilesafety.mysmart911
+	Title: WebMD Allergy
+		- URL: https://play.google.com/store/apps/details?id=com.webmd.allergy
+	Title: Pulse
+		- URL: https://play.google.com/store/apps/details?id=com.ncr.hsr.pulse
+	Title: BronsonConnect Video Visit
+		- URL: https://play.google.com/store/apps/details?id=com.bronsonhealth.android.bron.videovisit
+	Title: Fluent Home
+		- URL: https://play.google.com/store/apps/details?id=com.alarm.alarmmobile.android.fluent
+	Title: MassMutual RetireSmart
+		- URL: https://play.google.com/store/apps/details?id=com.massmutual.android.RetireSmart
+	Title: Integrated Video by Verizon Connect
+		- URL: https://play.google.com/store/apps/details?id=com.verizonconnect.videoexperience
+	Title: Smart Locator
+		- URL: https://play.google.com/store/apps/details?id=com.vzw.smartlocatorhub
+	Title: My Thirty-One
+		- URL: https://play.google.com/store/apps/details?id=com.thirtyonegifts.her
+	Title: Live 99.9 Radio
+		- URL: https://play.google.com/store/apps/details?id=com.newssynergy.realcountry
+	Title: SacRT SmaRT Ride
+		- URL: https://play.google.com/store/apps/details?id=sacrt.smartride
+	Title: Visions FCU Mobile
+		- URL: https://play.google.com/store/apps/details?id=com.softek.ofxclmobile.visionsfcu
+	Title: AgSense
+		- URL: https://play.google.com/store/apps/details?id=net.wagnet.agsense
+	Title: Reliant
+		- URL: https://play.google.com/store/apps/details?id=com.reliant.app
+	Title: Guardian Protection
+		- URL: https://play.google.com/store/apps/details?id=com.alarm.alarmmobile.android.guardian
+	Title: SmartFind Express Mobile
+		- URL: https://play.google.com/store/apps/details?id=com.powerschool.sfng
+	Title: HOPR Transit
+		- URL: https://play.google.com/store/apps/details?id=hopr.com.hopr
+	Title: EasyUbnt
+		- URL: https://play.google.com/store/apps/details?id=com.ispsoft.easyubntfull55
+	Title: Linksys
+		- URL: https://play.google.com/store/apps/details?id=com.cisco.connect.cloud
+	Title: D-Link Wi-Fi
+		- URL: https://play.google.com/store/apps/details?id=com.dlink.dlinkwifi
+	Title: Harmony®
+		- URL: https://play.google.com/store/apps/details?id=com.logitech.harmonyhub
+	Title: EagleEyes(Plus)
+		- URL: https://play.google.com/store/apps/details?id=push.plus.avtech.com
+	Title: LuckyCam
+		- URL: https://play.google.com/store/apps/details?id=com.ntk.LuckyCam
+	Title: KODAK Smart Home
+		- URL: https://play.google.com/store/apps/details?id=com.perimetersafe.kodaksmarthome
+	Title: Speed Camera Radar
+		- URL: https://play.google.com/store/apps/details?id=com.lelic.speedcam
+	Title: DroidCam Wireless Webcam
+		- URL: https://play.google.com/store/apps/details?id=com.dev47apps.droidcam
+	Title: CamHi
+		- URL: https://play.google.com/store/apps/details?id=com.hichip
+	Title: Watashi AHD v2
+		- URL: https://play.google.com/store/apps/details?id=com.mobile.myeye.ahd
+	Title: YCC365 Plus
+		- URL: https://play.google.com/store/apps/details?id=com.ycc365plus.aws
+	Title: dreamDroid
+		- URL: https://play.google.com/store/apps/details?id=net.reichholf.dreamdroid
+	Title: ALCATEL LINK APP
+		- URL: https://play.google.com/store/apps/details?id=com.alcatel.smartlinkv3
+	Title: Router Admin Setup Control & Speed Test
+		- URL: https://play.google.com/store/apps/details?id=com.gmail.kamdroid3.routerconfigure
+	Title: NetSpot - WiFi Analyzer
+		- URL: https://play.google.com/store/apps/details?id=com.etwok.netspotapp
+	Title: Verisure Cameras
+		- URL: https://play.google.com/store/apps/details?id=com.verisure.mymobile.android.ipcamxncompanion
+	Title: MyCar Controls
+		- URL: https://play.google.com/store/apps/details?id=app.com.automobility.mycar.control
+	Title: MyJABLOTRON
+		- URL: https://play.google.com/store/apps/details?id=net.jablonet.mobile
+	Title: YNAB — Budget, Personal Finance
+		- URL: https://play.google.com/store/apps/details?id=com.youneedabudget.evergreen.app
+	Title: CL6
+		- URL: https://play.google.com/store/apps/details?id=app.com.mycarcontrols.audiovox
+	Title: JobNimbus: Sales & Projects
+		- URL: https://play.google.com/store/apps/details?id=com.jobnimbus.JobNimbus2
+	Title: Kenmore Smart
+		- URL: https://play.google.com/store/apps/details?id=com.searshc.kscontrol
+	Title: Amazon Alexa - Show Mode for Lenovo
+		- URL: https://play.google.com/store/apps/details?id=amazon.speech.sim
+	Title: Amazon WorkDocs
+		- URL: https://play.google.com/store/apps/details?id=com.amazon.zocalo
+	Title: Smart Recorder – High-quality voice recorder
+		- URL: https://play.google.com/store/apps/details?id=com.andrwq.recorder
+	Title: Facer Watch Faces
+		- URL: https://play.google.com/store/apps/details?id=com.jeremysteckling.facerrel
+	Title: Watch Face App MR TIME
+		- URL: https://play.google.com/store/apps/details?id=com.apposter.watchmaker
+	Title: Lefun Health
+		- URL: https://play.google.com/store/apps/details?id=com.tjd.tjdmainS2
+	Title: ZeRound2
+		- URL: https://play.google.com/store/apps/details?id=com.infibi.zeround2
+	Title: Speedometer for Wear OS (Android Wear)
+		- URL: https://play.google.com/store/apps/details?id=com.appfour.wearspeedometer
+	Title: Watch Face - Pujie Black - Wear OS & Galaxy Watch
+		- URL: https://play.google.com/store/apps/details?id=com.pujie.wristwear.pujieblack
+	Title: OutLoud - Your Social Jukebox
+		- URL: https://play.google.com/store/apps/details?id=com.outloud.outloud
+	Title: Find My Friends, Family - GPS Location Tracker
+		- URL: https://play.google.com/store/apps/details?id=com.mspy.lite
+	Title: Tasker App Factory
+		- URL: https://play.google.com/store/apps/details?id=net.dinglisch.android.appfactory
+	Title: AllMyTribe
+		- URL: https://play.google.com/store/apps/details?id=com.mgmwireless.allmytribe3
+	Title: First Card
+		- URL: https://play.google.com/store/apps/details?id=se.nordea.firstcard
