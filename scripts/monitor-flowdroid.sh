@@ -20,4 +20,4 @@ function match_tree {
   echo ""
 }
 
-paste -d ' ' <(tree log) <(match_tree)
+paste -d ' ' <(tree -C log) <(match_tree)
