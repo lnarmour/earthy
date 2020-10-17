@@ -1,6 +1,6 @@
 #!/bin/bash
 
-if [[ -n "$CLEAN" ]]; then
+if [[ -n "$CLEAN" || -n "$MYSQL" ]]; then
   # start mysql container if isn't already running
   C=`docker ps -q --filter name=mysql`
   if [[ -n "$C" ]]; then docker stop mysql; fi;
