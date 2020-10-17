@@ -1,0 +1,304 @@
+date # Sat 17 Oct 2020 09:42:09 AM MDT
+java -jar FlowDroid/soot-infoflow-cmd/target/soot-infoflow-cmd-jar-with-dependencies.jar -ns -ne -dt 200 -ct 200 -rt 200 -a /s/chopin/l/grad/lnarmour/iot-app-analysis/apps/apps/com.specialyg.ippro/com.specialyg.ippro-1593.apk -p android-sdk//platforms/ -s FlowDroid/soot-infoflow-android/SourcesAndSinks.txt
+[main] INFO soot.jimple.infoflow.cmd.MainClass - Analyzing app /s/fir/e/nobackup/app-analysis/apps/apps/com.specialyg.ippro/com.specialyg.ippro-1593.apk (1 of 1)...
+[main] INFO soot.jimple.infoflow.android.SetupApplication - Initializing Soot...
+[main] WARN soot.Scene - Android API version '28' not available, using minApkVersion '19' instead
+[main] INFO soot.jimple.infoflow.android.SetupApplication - Loading dex files...
+[main] WARN soot.dexpler.DexFileProvider - Multiple dex files detected, only processing 'classes.dex'. Use '-process-multiple-dex' option to process them all.
+[main] INFO soot.jimple.infoflow.android.SetupApplication - ARSC file parsing took 0.205474738 seconds
+[main] INFO soot.jimple.infoflow.memory.MemoryWarningSystem - Registered a memory warning system for 4,805.1 MiB
+[main] INFO soot.jimple.infoflow.memory.FlowDroidTimeoutWatcher - FlowDroid timeout watcher started
+[main] INFO soot.jimple.infoflow.android.entryPointCreators.AndroidEntryPointCreator - Creating Android entry point for 276 components...
+[main] INFO soot.jimple.infoflow.android.SetupApplication - Constructing the callgraph...
+[main] INFO soot.jimple.infoflow.android.callbacks.DefaultCallbackAnalyzer - Collecting callbacks in DEFAULT mode...
+[main] INFO soot.jimple.infoflow.android.callbacks.DefaultCallbackAnalyzer - Callback analysis done.
+[main] WARN soot.jimple.infoflow.android.resources.LayoutFileParser - Layout class com.app.jagles.view.JAGLSurfaceView is not derived from android.view.View
+[main] WARN soot.jimple.infoflow.android.resources.LayoutFileParser - Layout class com.app.jagles.view.JAGLSurfaceView is not derived from android.view.View
+[main] WARN soot.jimple.infoflow.android.resources.LayoutFileParser - Layout class com.app.jagles.view.JAGLSurfaceView is not derived from android.view.View
+[main] WARN soot.jimple.infoflow.android.resources.LayoutFileParser - Layout class com.app.jagles.view.JAGLSurfaceView is not derived from android.view.View
+[main] WARN soot.jimple.infoflow.android.resources.LayoutFileParser - Layout class com.app.jagles.view.JAGLSurfaceView is not derived from android.view.View
+[main] WARN soot.jimple.infoflow.android.resources.LayoutFileParser - Layout class com.app.jagles.view.JAGLSurfaceView is not derived from android.view.View
+[main] WARN soot.jimple.infoflow.android.resources.LayoutFileParser - Layout class com.app.jagles.view.JAGLSurfaceView is not derived from android.view.View
+[main] INFO soot.jimple.infoflow.android.entryPointCreators.AndroidEntryPointCreator - Creating Android entry point for 277 components...
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for com.baidu.location.indoor.m$a, because it is an interface and cannot substitute with subclass
+[main] INFO soot.jimple.infoflow.android.SetupApplication - Constructing the callgraph...
+[main] INFO soot.jimple.infoflow.android.callbacks.DefaultCallbackAnalyzer - Running incremental callback analysis for 19 components...
+[main] INFO soot.jimple.infoflow.android.callbacks.DefaultCallbackAnalyzer - Incremental callback analysis done.
+[main] INFO soot.jimple.infoflow.android.entryPointCreators.AndroidEntryPointCreator - Creating Android entry point for 277 components...
+[main] WARN soot.jimple.infoflow.android.entryPointCreators.components.ServiceEntryPointCreator - Cannot create valid constructor for com.baidu.location.indoor.m$a, because it is an interface and cannot substitute with subclass
+[main] INFO soot.jimple.infoflow.android.SetupApplication - Constructing the callgraph...
+[main] INFO soot.jimple.infoflow.android.callbacks.DefaultCallbackAnalyzer - Running incremental callback analysis for 0 components...
+[main] INFO soot.jimple.infoflow.android.callbacks.DefaultCallbackAnalyzer - Incremental callback analysis done.
+[main] INFO soot.jimple.infoflow.memory.MemoryWarningSystem - Shutting down the memory warning system...
+[main] INFO soot.jimple.infoflow.android.SetupApplication - Callback analysis terminated normally
+[main] INFO soot.jimple.infoflow.android.SetupApplication - Entry point calculation done.
+[main] WARN soot.jimple.infoflow.android.data.parsers.PermissionMethodParser - Line does not match: <org.springframework.web.servlet.tags.UrlTag: java.lang.String createUrl)> -> _SINK_
+[main] WARN soot.jimple.infoflow.android.data.parsers.PermissionMethodParser - Line does not match: <org.springframework.orm.hibernate3.support.ClobStringType: int[] sqlTypes)> -> _SINK_
+[main] WARN soot.jimple.infoflow.android.data.parsers.PermissionMethodParser - Line does not match: <org.springframework.security.config.http.CsrfBeanDefinitionParser: org.springframework.beans.factory.config.BeanDefinition getCsrfLogoutHandler)> -> _SOURCE_
+[main] WARN soot.jimple.infoflow.android.data.parsers.PermissionMethodParser - Line does not match: <java.io.File: java.io.File getAbsoluteFile)> -> _SOURCE_
+[main] WARN soot.jimple.infoflow.android.data.parsers.PermissionMethodParser - Line does not match: <org.springframework.security.config.http.FormLoginBeanDefinitionParser: java.lang.String getLoginPage)> -> _SOURCE_
+[main] WARN soot.jimple.infoflow.android.data.parsers.PermissionMethodParser - Line does not match: <com.google.auth.oauth2.UserCredentials: java.lang.String getClientSecret)> -> _SOURCE_
+[main] WARN soot.jimple.infoflow.android.data.parsers.PermissionMethodParser - Line does not match: <org.springframework.web.servlet.tags.UrlTag: java.lang.String createUrl)> -> _SOURCE_
+[main] WARN soot.jimple.infoflow.android.data.parsers.PermissionMethodParser - Line does not match: <java.io.File: java.io.File getCanonicalFile)> -> _SOURCE_
+[main] WARN soot.jimple.infoflow.android.data.parsers.PermissionMethodParser - Line does not match: <org.apache.xmlrpc.webserver.RequestData: java.lang.String getMethod)> -> _SOURCE_
+[main] WARN soot.jimple.infoflow.android.data.parsers.PermissionMethodParser - Line does not match: <org.dmfs.oauth2.client.http.requests.ResourceOwnerPasswordTokenRequest: org.dmfs.httpclient.HttpRequestEntity requestEntity)> -> _SOURCE_
+[main] WARN soot.jimple.infoflow.android.data.parsers.PermissionMethodParser - Line does not match: <org.springframework.security.concurrent.DelegatingSecurityContextExecutorService: java.util.concurrent.ExecutorService getDelegate)> -> _SOURCE_
+[main] WARN soot.jimple.infoflow.android.data.parsers.PermissionMethodParser - Line does not match: <org.springframework.security.config.annotation.web.builders.HttpSecurity: org.springframework.security.config.'annotation'.web.configurers.HeadersConfigurer headers)> -> _SOURCE_
+[main] WARN soot.jimple.infoflow.android.data.parsers.PermissionMethodParser - Line does not match: <org.springframework.web.servlet.tags.EscapeBodyTag: java.lang.String readBodyContent)> -> _SOURCE_
+[main] WARN soot.jimple.infoflow.android.data.parsers.PermissionMethodParser - Line does not match: <org.springframework.security.config.http.FormLoginBeanDefinitionParser: java.lang.String getLoginProcessingUrl)> -> _SOURCE_
+[main] WARN soot.jimple.infoflow.android.data.parsers.PermissionMethodParser - Line does not match: <org.springframework.security.config.annotation.web.configurers.LogoutConfigurer: java.util.List getLogoutHandlers)> -> _SOURCE_
+[main] WARN soot.jimple.infoflow.android.data.parsers.PermissionMethodParser - Line does not match: <org.apache.xmlrpc.webserver.RequestData: java.lang.String getHttpVersion)> -> _SOURCE_
+[main] WARN soot.jimple.infoflow.android.data.parsers.PermissionMethodParser - Line does not match: <com.google.auth.oauth2.DefaultCredentialsProvider: java.io.File getWellKnownCredentialsFile)> -> _SOURCE_
+[main] WARN soot.jimple.infoflow.android.data.parsers.PermissionMethodParser - Line does not match: <org.apache.xmlrpc.webserver.HttpServletRequestImpl: void parseParameters)> -> _SOURCE_
+[main] WARN soot.jimple.infoflow.android.data.parsers.PermissionMethodParser - Line does not match:     
+[main] INFO soot.jimple.infoflow.android.source.AccessPathBasedSourceSinkManager - Created a SourceSinkManager with 68 sources, 194 sinks, and 104 callback methods.
+[main] INFO soot.jimple.infoflow.android.SetupApplication - Collecting callbacks and building a callgraph took 17 seconds
+[main] INFO soot.jimple.infoflow.android.SetupApplication - Running data flow analysis on /s/fir/e/nobackup/app-analysis/apps/apps/com.specialyg.ippro/com.specialyg.ippro-1593.apk with 68 sources and 194 sinks...
+[main] WARN soot.jimple.infoflow.InfoflowConfiguration - Static field tracking is disabled, results may be incomplete
+[main] INFO soot.jimple.infoflow.InfoflowConfiguration - Implicit flow tracking is NOT enabled
+[main] INFO soot.jimple.infoflow.InfoflowConfiguration - Exceptional flow tracking is NOT enabled
+[main] INFO soot.jimple.infoflow.InfoflowConfiguration - Running with a maximum access path length of 5
+[main] INFO soot.jimple.infoflow.InfoflowConfiguration - Using path-agnostic result collection
+[main] INFO soot.jimple.infoflow.InfoflowConfiguration - Recursive access path shortening is enabled
+[main] INFO soot.jimple.infoflow.InfoflowConfiguration - Taint analysis enabled: true
+[main] INFO soot.jimple.infoflow.InfoflowConfiguration - Using alias algorithm FlowSensitive
+[main] INFO soot.jimple.infoflow.memory.MemoryWarningSystem - Registered a memory warning system for 4,805.1 MiB
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - Callgraph construction took 0 seconds
+[main] INFO soot.jimple.infoflow.codeOptimization.InterproceduralConstantValuePropagator - Removing side-effect free methods is disabled
+[FlowDroid Timeout Watcher] INFO soot.jimple.infoflow.memory.FlowDroidTimeoutWatcher - FlowDroid timeout watcher terminated
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - Dead code elimination took 0.858357049 seconds
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - Callgraph has 18430 edges
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - Starting Taint Analysis
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - Using context- and flow-sensitive solver
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - Using context- and flow-sensitive solver
+[main] INFO soot.jimple.infoflow.memory.FlowDroidTimeoutWatcher - FlowDroid timeout watcher started
+[main] WARN soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - Running with limited join point abstractions can break context-sensitive path builders
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - Looking for sources and sinks...
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - Source lookup done, found 72 sources and 292 sinks.
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - Taint wrapper hits: 11278
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - Taint wrapper misses: 10300
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - IFDS problem with 239686 forward and 72224 backward edges solved in 2 seconds, processing 71 results...
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - Current memory consumption: 858 MB
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - Memory consumption after cleanup: 254 MB
+[main] INFO soot.jimple.infoflow.memory.FlowDroidTimeoutWatcher - FlowDroid timeout watcher started
+[main] INFO soot.jimple.infoflow.data.pathBuilders.BatchPathBuilder - Running path reconstruction batch 1 with 5 elements
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Obtainted 5 connections between sources and sinks
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 1...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 2...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 3...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 4...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 5...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.BatchPathBuilder - Running path reconstruction batch 2 with 5 elements
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Obtainted 5 connections between sources and sinks
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 1...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 2...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 3...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 4...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 5...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.BatchPathBuilder - Running path reconstruction batch 3 with 5 elements
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Obtainted 5 connections between sources and sinks
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 1...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 2...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 3...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 4...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 5...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.BatchPathBuilder - Running path reconstruction batch 4 with 5 elements
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Obtainted 5 connections between sources and sinks
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 1...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 2...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 3...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 4...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 5...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.BatchPathBuilder - Running path reconstruction batch 5 with 5 elements
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Obtainted 5 connections between sources and sinks
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 1...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 2...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 3...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 4...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 5...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.BatchPathBuilder - Running path reconstruction batch 6 with 5 elements
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Obtainted 5 connections between sources and sinks
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 1...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 2...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 3...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 4...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 5...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.BatchPathBuilder - Running path reconstruction batch 7 with 5 elements
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Obtainted 5 connections between sources and sinks
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 1...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 2...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 3...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 4...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 5...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.BatchPathBuilder - Running path reconstruction batch 8 with 5 elements
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Obtainted 5 connections between sources and sinks
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 1...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 2...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 3...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 4...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 5...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.BatchPathBuilder - Running path reconstruction batch 9 with 5 elements
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Obtainted 5 connections between sources and sinks
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 1...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 2...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 3...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 4...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 5...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.BatchPathBuilder - Running path reconstruction batch 10 with 5 elements
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Obtainted 5 connections between sources and sinks
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 1...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 2...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 3...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 4...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 5...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.BatchPathBuilder - Running path reconstruction batch 11 with 5 elements
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Obtainted 5 connections between sources and sinks
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 1...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 2...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 3...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 4...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 5...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.BatchPathBuilder - Running path reconstruction batch 12 with 5 elements
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Obtainted 5 connections between sources and sinks
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 1...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 2...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 3...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 4...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 5...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.BatchPathBuilder - Running path reconstruction batch 13 with 5 elements
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Obtainted 5 connections between sources and sinks
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 1...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 2...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 3...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 4...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 5...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.BatchPathBuilder - Running path reconstruction batch 14 with 5 elements
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Obtainted 5 connections between sources and sinks
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 1...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 2...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 3...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 4...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 5...
+[main] INFO soot.jimple.infoflow.data.pathBuilders.BatchPathBuilder - Running path reconstruction batch 15 with 1 elements
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Obtainted 1 connections between sources and sinks
+[main] INFO soot.jimple.infoflow.data.pathBuilders.ContextSensitivePathBuilder - Building path 1...
+[main] INFO soot.jimple.infoflow.memory.MemoryWarningSystem - Shutting down the memory warning system...
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - Memory consumption after path building: 256 MB
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - Path reconstruction took 0 seconds
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - The sink virtualinvoke $r2.<java.io.OutputStream: void write(byte[])>($r0) in method <cn.jiguang.d.h.s: byte[] a(byte[])> was called with values from the following sources:
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r4 = virtualinvoke $r3.<android.telephony.TelephonyManager: java.lang.String getSubscriberId()>() in method <cn.jiguang.g.a: java.lang.String f(android.content.Context,java.lang.String)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r7 = virtualinvoke $r6.<android.content.pm.PackageManager: java.util.List getInstalledPackages(int)>(0) in method <cn.jiguang.a.a.c.d: java.util.ArrayList a(android.content.Context,boolean)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r2 = virtualinvoke $r8.<android.net.wifi.WifiInfo: java.lang.String getSSID()>() in method <cn.jiguang.a.a.a.c: void a(android.content.Context)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r4 = virtualinvoke $r3.<android.telephony.TelephonyManager: java.lang.String getSimSerialNumber()>() in method <cn.jiguang.g.a: java.lang.String d(android.content.Context,java.lang.String)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - The sink virtualinvoke $r0.<java.io.ByteArrayOutputStream: void write(byte[],int,int)>($r2, 0, $i0) in method <com.alipay.sdk.net.a: byte[] a(java.io.InputStream)> was called with values from the following sources:
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r31 = virtualinvoke $r16.<java.net.HttpURLConnection: java.io.InputStream getInputStream()>() in method <com.alipay.sdk.net.a: com.alipay.sdk.net.a$b a(android.content.Context,com.alipay.sdk.net.a$a)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - The sink interfaceinvoke $r0.<android.content.SharedPreferences$Editor: android.content.SharedPreferences$Editor putInt(java.lang.String,int)>($r1, $i0) in method <cn.jiguang.g.b.b: void a(android.content.SharedPreferences$Editor,java.lang.String,java.io.Serializable)> was called with values from the following sources:
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r3 = interfaceinvoke $r1.<android.database.Cursor: java.lang.String getString(int)>($i0) in method <cn.jiguang.g.b.c: java.io.Serializable a(android.database.Cursor,int,java.io.Serializable)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r6 = virtualinvoke $r5.<android.telephony.TelephonyManager: java.lang.String getDeviceId()>() in method <cn.jiguang.g.a: java.lang.String e(android.content.Context,java.lang.String)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r5 = virtualinvoke $r4.<android.net.wifi.WifiInfo: java.lang.String getMacAddress()>() in method <cn.jiguang.g.a: java.lang.String v(android.content.Context)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - The sink virtualinvoke $r2.<java.io.Writer: void write(java.lang.String,int,int)>($r1, 0, $i0) in method <com.braintreepayments.api.internal.HttpClient: void writeOutputStream(java.io.OutputStream,java.lang.String)> was called with values from the following sources:
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r12 = interfaceinvoke $r10.<android.database.Cursor: java.lang.String getString(int)>(1) in method <com.braintreepayments.api.internal.AnalyticsDatabase: java.util.List getPendingRequests()>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r12 = interfaceinvoke $r10.<android.database.Cursor: java.lang.String getString(int)>(2) in method <com.braintreepayments.api.internal.AnalyticsDatabase: java.util.List getPendingRequests()>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r12 = interfaceinvoke $r10.<android.database.Cursor: java.lang.String getString(int)>(0) in method <com.braintreepayments.api.internal.AnalyticsDatabase: java.util.List getPendingRequests()>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - The sink $r6 = virtualinvoke $r4.<java.lang.String: java.lang.String replace(java.lang.CharSequence,java.lang.CharSequence)>("&", "_") in method <com.baidu.location.f.i: java.lang.String m()> was called with values from the following sources:
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r4 = virtualinvoke $r2.<android.net.wifi.WifiInfo: java.lang.String getSSID()>() in method <com.baidu.location.f.i: java.lang.String m()>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - The sink virtualinvoke $r0.<java.io.FileOutputStream: void write(byte[])>($r4) in method <cn.jiguang.d.h.f: boolean a(java.io.File,byte[])> was called with values from the following sources:
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r4 = virtualinvoke $r3.<android.telephony.TelephonyManager: java.lang.String getSubscriberId()>() in method <cn.jiguang.g.a: java.lang.String f(android.content.Context,java.lang.String)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r7 = virtualinvoke $r6.<android.content.pm.PackageManager: java.util.List getInstalledPackages(int)>(0) in method <cn.jiguang.a.a.c.d: java.util.ArrayList a(android.content.Context,boolean)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r61 = virtualinvoke $r45.<java.net.HttpURLConnection: java.io.InputStream getInputStream()>() in method <cn.jiguang.a.a.c.i: cn.jiguang.a.a.c.j a(android.content.Context,java.lang.String,int,long,boolean,java.io.File,java.lang.String)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r4 = virtualinvoke $r3.<android.telephony.TelephonyManager: java.lang.String getSimSerialNumber()>() in method <cn.jiguang.g.a: java.lang.String d(android.content.Context,java.lang.String)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - The sink $r7 = interfaceinvoke $r7.<android.content.SharedPreferences$Editor: android.content.SharedPreferences$Editor putString(java.lang.String,java.lang.String)>($r0, $r2) in method <com.alipay.sdk.tid.b$a: void a(java.lang.String,java.lang.String,java.lang.String,boolean)> was called with values from the following sources:
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r4 = interfaceinvoke $r10.<android.database.Cursor: java.lang.String getString(int)>(0) in method <com.alipay.sdk.tid.a: java.lang.String b(java.lang.String,java.lang.String)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r4 = interfaceinvoke $r10.<android.database.Cursor: java.lang.String getString(int)>(0) in method <com.alipay.sdk.tid.a: java.lang.String a(java.lang.String,java.lang.String)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - The sink $z0 = virtualinvoke $r13.<android.content.Context: boolean bindService(android.content.Intent,android.content.ServiceConnection,int)>($r6, $r12, 1) in method <cn.jiguang.d.i.f: cn.jiguang.d.i.g a(android.content.Context,int,int,cn.jiguang.d.d.a,java.util.HashMap)> was called with values from the following sources:
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r6 = virtualinvoke $r4.<android.content.pm.PackageManager: java.util.List queryIntentServices(android.content.Intent,int)>($r5, 0) in method <cn.jiguang.d.i.h: java.util.ArrayList c(android.content.Context)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - The sink virtualinvoke $r7.<android.content.Intent: android.content.Intent setComponent(android.content.ComponentName)>($r8) in method <cn.jiguang.g.a: void b(android.content.Context,android.content.Intent,java.lang.String)> was called with values from the following sources:
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r6 = virtualinvoke $r5.<android.content.pm.PackageManager: java.util.List queryBroadcastReceivers(android.content.Intent,int)>($r4, 0) in method <cn.jiguang.g.a: java.util.List a(android.content.Context,android.content.Intent,java.lang.String)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - The sink interfaceinvoke $r0.<android.content.SharedPreferences$Editor: android.content.SharedPreferences$Editor putFloat(java.lang.String,float)>($r1, $f0) in method <cn.jiguang.g.b.b: void a(android.content.SharedPreferences$Editor,java.lang.String,java.io.Serializable)> was called with values from the following sources:
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r6 = virtualinvoke $r5.<android.telephony.TelephonyManager: java.lang.String getDeviceId()>() in method <cn.jiguang.g.a: java.lang.String e(android.content.Context,java.lang.String)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - The sink virtualinvoke $r5.<java.io.ByteArrayOutputStream: void write(byte[],int,int)>($r6, 0, $i0) in method <com.braintreepayments.api.internal.HttpClient: java.lang.String readStream(java.io.InputStream,boolean)> was called with values from the following sources:
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r5 = virtualinvoke $r1.<java.net.HttpURLConnection: java.io.InputStream getInputStream()>() in method <com.braintreepayments.api.internal.HttpClient: java.lang.String parseResponse(java.net.HttpURLConnection)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - The sink $r52 = virtualinvoke $r45.<java.net.HttpURLConnection: java.io.OutputStream getOutputStream()>() in method <cn.jiguang.a.a.c.i: cn.jiguang.a.a.c.j a(android.content.Context,java.lang.String,int,long,boolean,java.io.File,java.lang.String)> was called with values from the following sources:
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r4 = virtualinvoke $r3.<android.telephony.TelephonyManager: java.lang.String getSubscriberId()>() in method <cn.jiguang.g.a: java.lang.String f(android.content.Context,java.lang.String)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r4 = virtualinvoke $r3.<android.telephony.TelephonyManager: java.lang.String getSimSerialNumber()>() in method <cn.jiguang.g.a: java.lang.String d(android.content.Context,java.lang.String)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - The sink virtualinvoke $r40.<java.io.ByteArrayOutputStream: void write(byte[],int,int)>($r37, 0, $i1) in method <com.baidu.location.h.g: void run()> was called with values from the following sources:
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r38 = virtualinvoke $r35.<java.net.HttpURLConnection: java.io.InputStream getInputStream()>() in method <com.baidu.location.h.g: void run()>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - The sink virtualinvoke $r9.<java.io.DataOutputStream: void write(byte[])>($r0) in method <com.alipay.sdk.packet.c: byte[] a(byte[][])> was called with values from the following sources:
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r5 = virtualinvoke $r4.<android.net.wifi.WifiInfo: java.lang.String getSSID()>() in method <com.alipay.sdk.data.c: java.lang.String c(android.content.Context)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - The sink virtualinvoke $r40.<java.io.ByteArrayOutputStream: void write(byte[],int,int)>($r22, 0, $i2) in method <cn.jiguang.d.i.e: void run()> was called with values from the following sources:
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r38 = virtualinvoke $r23.<java.net.HttpURLConnection: java.io.InputStream getInputStream()>() in method <cn.jiguang.d.i.e: void run()>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - The sink virtualinvoke $r53.<java.io.DataOutputStream: void write(byte[])>($r55) in method <cn.jiguang.a.a.c.i: cn.jiguang.a.a.c.j a(android.content.Context,java.lang.String,int,long,boolean,java.io.File,java.lang.String)> was called with values from the following sources:
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r4 = virtualinvoke $r3.<android.telephony.TelephonyManager: java.lang.String getSubscriberId()>() in method <cn.jiguang.g.a: java.lang.String f(android.content.Context,java.lang.String)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r4 = virtualinvoke $r3.<android.telephony.TelephonyManager: java.lang.String getSimSerialNumber()>() in method <cn.jiguang.g.a: java.lang.String d(android.content.Context,java.lang.String)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - The sink virtualinvoke $r0.<android.content.Context: void sendBroadcast(android.content.Intent)>($r8) in method <cn.jpush.android.e.a: void b(android.content.Context,android.content.Intent,java.lang.String)> was called with values from the following sources:
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r6 = virtualinvoke $r5.<android.content.pm.PackageManager: java.util.List queryBroadcastReceivers(android.content.Intent,int)>($r4, 0) in method <cn.jpush.android.e.a: java.util.List a(android.content.Context,android.content.Intent,java.lang.String)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - The sink $r37 = virtualinvoke $r22.<java.net.HttpURLConnection: java.io.OutputStream getOutputStream()>() in method <cn.jiguang.net.HttpUtils: cn.jiguang.net.HttpResponse a(android.content.Context,cn.jiguang.net.HttpRequest,boolean)> was called with values from the following sources:
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r7 = virtualinvoke $r6.<android.content.pm.PackageManager: java.util.List getInstalledPackages(int)>(0) in method <cn.jiguang.a.a.c.d: java.util.ArrayList a(android.content.Context,boolean)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - The sink virtualinvoke $r9.<java.io.DataOutputStream: void write(byte[])>($r11) in method <com.alipay.sdk.packet.c: byte[] a(byte[][])> was called with values from the following sources:
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r5 = virtualinvoke $r4.<android.net.wifi.WifiInfo: java.lang.String getSSID()>() in method <com.alipay.sdk.data.c: java.lang.String c(android.content.Context)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - The sink virtualinvoke $r0.<android.content.Context: void sendBroadcast(android.content.Intent)>($r7) in method <cn.jiguang.g.a: void b(android.content.Context,android.content.Intent,java.lang.String)> was called with values from the following sources:
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r6 = virtualinvoke $r5.<android.content.pm.PackageManager: java.util.List queryBroadcastReceivers(android.content.Intent,int)>($r4, 0) in method <cn.jiguang.g.a: java.util.List a(android.content.Context,android.content.Intent,java.lang.String)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - The sink virtualinvoke $r9.<java.util.zip.GZIPOutputStream: void write(byte[],int,int)>($r6, 0, $i0) in method <com.alipay.sdk.encrypt.c: byte[] a(byte[])> was called with values from the following sources:
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r5 = virtualinvoke $r4.<android.net.wifi.WifiInfo: java.lang.String getSSID()>() in method <com.alipay.sdk.data.c: java.lang.String c(android.content.Context)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - The sink $r38 = virtualinvoke $r22.<java.net.HttpURLConnection: java.io.InputStream getInputStream()>() in method <cn.jiguang.net.HttpUtils: cn.jiguang.net.HttpResponse a(android.content.Context,cn.jiguang.net.HttpRequest,boolean)> was called with values from the following sources:
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r4 = virtualinvoke $r3.<android.telephony.TelephonyManager: java.lang.String getSubscriberId()>() in method <cn.jiguang.g.a: java.lang.String f(android.content.Context,java.lang.String)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r7 = virtualinvoke $r6.<android.content.pm.PackageManager: java.util.List getInstalledPackages(int)>(0) in method <cn.jiguang.a.a.c.d: java.util.ArrayList a(android.content.Context,boolean)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r2 = virtualinvoke $r8.<android.net.wifi.WifiInfo: java.lang.String getSSID()>() in method <cn.jiguang.a.a.a.c: void a(android.content.Context)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r5 = virtualinvoke $r4.<android.net.wifi.WifiInfo: java.lang.String getMacAddress()>() in method <cn.jiguang.g.a: java.lang.String v(android.content.Context)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r4 = virtualinvoke $r3.<android.telephony.TelephonyManager: java.lang.String getSimSerialNumber()>() in method <cn.jiguang.g.a: java.lang.String d(android.content.Context,java.lang.String)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - The sink virtualinvoke $r1.<android.content.Intent: android.content.Intent setComponent(android.content.ComponentName)>($r8) in method <cn.jiguang.d.i.h: android.content.Intent a(android.content.pm.PackageManager,java.lang.String)> was called with values from the following sources:
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r6 = virtualinvoke $r4.<android.content.pm.PackageManager: java.util.List queryIntentServices(android.content.Intent,int)>($r5, 0) in method <cn.jiguang.d.i.h: java.util.ArrayList c(android.content.Context)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - The sink virtualinvoke $r0.<java.io.File: boolean delete()>() in method <cn.jiguang.d.h.f: void a(java.io.File)> was called with values from the following sources:
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r7 = virtualinvoke $r6.<android.content.pm.PackageManager: java.util.List getInstalledPackages(int)>(0) in method <cn.jiguang.a.a.c.d: java.util.ArrayList a(android.content.Context,boolean)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - The sink virtualinvoke $r28.<java.io.ByteArrayOutputStream: void write(byte[],int,int)>($r25, 0, $i0) in method <com.baidu.location.h.h: void run()> was called with values from the following sources:
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r26 = virtualinvoke $r17.<javax.net.ssl.HttpsURLConnection: java.io.InputStream getInputStream()>() in method <com.baidu.location.h.h: void run()>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - The sink interfaceinvoke $r0.<android.content.SharedPreferences$Editor: android.content.SharedPreferences$Editor putString(java.lang.String,java.lang.String)>($r1, $r8) in method <cn.jiguang.g.b.b: void a(android.content.SharedPreferences$Editor,java.lang.String,java.io.Serializable)> was called with values from the following sources:
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r4 = virtualinvoke $r3.<android.telephony.TelephonyManager: java.lang.String getSubscriberId()>() in method <cn.jiguang.g.a: java.lang.String f(android.content.Context,java.lang.String)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r3 = interfaceinvoke $r1.<android.database.Cursor: java.lang.String getString(int)>($i0) in method <cn.jiguang.g.b.c: java.io.Serializable a(android.database.Cursor,int,java.io.Serializable)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r6 = virtualinvoke $r5.<android.telephony.TelephonyManager: java.lang.String getDeviceId()>() in method <cn.jiguang.g.a: java.lang.String e(android.content.Context,java.lang.String)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r5 = virtualinvoke $r4.<android.net.wifi.WifiInfo: java.lang.String getMacAddress()>() in method <cn.jiguang.g.a: java.lang.String v(android.content.Context)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r4 = virtualinvoke $r3.<android.telephony.TelephonyManager: java.lang.String getSimSerialNumber()>() in method <cn.jiguang.g.a: java.lang.String d(android.content.Context,java.lang.String)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - The sink virtualinvoke $r1.<java.io.ByteArrayOutputStream: void write(byte[],int,int)>($r2, 0, $i0) in method <cn.jiguang.g.g: byte[] a(java.io.InputStream)> was called with values from the following sources:
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r38 = virtualinvoke $r22.<java.net.HttpURLConnection: java.io.InputStream getInputStream()>() in method <cn.jiguang.net.HttpUtils: cn.jiguang.net.HttpResponse a(android.content.Context,cn.jiguang.net.HttpRequest,boolean)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r61 = virtualinvoke $r45.<java.net.HttpURLConnection: java.io.InputStream getInputStream()>() in method <cn.jiguang.a.a.c.i: cn.jiguang.a.a.c.j a(android.content.Context,java.lang.String,int,long,boolean,java.io.File,java.lang.String)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - The sink virtualinvoke $r28.<java.io.ByteArrayOutputStream: void write(byte[],int,int)>($r25, 0, $i0) in method <com.baidu.location.h.i: void run()> was called with values from the following sources:
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r26 = virtualinvoke $r17.<javax.net.ssl.HttpsURLConnection: java.io.InputStream getInputStream()>() in method <com.baidu.location.h.i: void run()>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - The sink virtualinvoke $r6.<android.content.Intent: android.content.Intent setComponent(android.content.ComponentName)>($r7) in method <cn.jiguang.d.i.f: cn.jiguang.d.i.g a(android.content.Context,int,int,cn.jiguang.d.d.a,java.util.HashMap)> was called with values from the following sources:
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r6 = virtualinvoke $r4.<android.content.pm.PackageManager: java.util.List queryIntentServices(android.content.Intent,int)>($r5, 0) in method <cn.jiguang.d.i.h: java.util.ArrayList c(android.content.Context)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - The sink $r61 = virtualinvoke $r45.<java.net.HttpURLConnection: java.io.InputStream getInputStream()>() in method <cn.jiguang.a.a.c.i: cn.jiguang.a.a.c.j a(android.content.Context,java.lang.String,int,long,boolean,java.io.File,java.lang.String)> was called with values from the following sources:
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r4 = virtualinvoke $r3.<android.telephony.TelephonyManager: java.lang.String getSubscriberId()>() in method <cn.jiguang.g.a: java.lang.String f(android.content.Context,java.lang.String)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r4 = virtualinvoke $r3.<android.telephony.TelephonyManager: java.lang.String getSimSerialNumber()>() in method <cn.jiguang.g.a: java.lang.String d(android.content.Context,java.lang.String)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - The sink virtualinvoke $r53.<java.io.DataOutputStream: void write(byte[],int,int)>($r55, 0, $i5) in method <cn.jiguang.a.a.c.i: cn.jiguang.a.a.c.j a(android.content.Context,java.lang.String,int,long,boolean,java.io.File,java.lang.String)> was called with values from the following sources:
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r4 = virtualinvoke $r3.<android.telephony.TelephonyManager: java.lang.String getSubscriberId()>() in method <cn.jiguang.g.a: java.lang.String f(android.content.Context,java.lang.String)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r4 = virtualinvoke $r3.<android.telephony.TelephonyManager: java.lang.String getSimSerialNumber()>() in method <cn.jiguang.g.a: java.lang.String d(android.content.Context,java.lang.String)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - The sink interfaceinvoke $r0.<android.content.SharedPreferences$Editor: android.content.SharedPreferences$Editor putLong(java.lang.String,long)>($r1, $l1) in method <cn.jiguang.g.b.b: void a(android.content.SharedPreferences$Editor,java.lang.String,java.io.Serializable)> was called with values from the following sources:
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r6 = virtualinvoke $r5.<android.telephony.TelephonyManager: java.lang.String getDeviceId()>() in method <cn.jiguang.g.a: java.lang.String e(android.content.Context,java.lang.String)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r5 = virtualinvoke $r4.<android.net.wifi.WifiInfo: java.lang.String getMacAddress()>() in method <cn.jiguang.g.a: java.lang.String v(android.content.Context)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - The sink virtualinvoke $r8.<android.content.Intent: android.content.Intent setComponent(android.content.ComponentName)>($r9) in method <cn.jpush.android.e.a: void b(android.content.Context,android.content.Intent,java.lang.String)> was called with values from the following sources:
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r6 = virtualinvoke $r5.<android.content.pm.PackageManager: java.util.List queryBroadcastReceivers(android.content.Intent,int)>($r4, 0) in method <cn.jpush.android.e.a: java.util.List a(android.content.Context,android.content.Intent,java.lang.String)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - The sink virtualinvoke $r53.<java.io.DataOutputStream: void write(byte[])>($r55) in method <cn.jiguang.a.a.c.i: cn.jiguang.a.a.c.j a(android.content.Context,java.lang.String,int,long,boolean,java.io.File,java.lang.String)> was called with values from the following sources:
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r4 = virtualinvoke $r3.<android.telephony.TelephonyManager: java.lang.String getSubscriberId()>() in method <cn.jiguang.g.a: java.lang.String f(android.content.Context,java.lang.String)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r6 = virtualinvoke $r5.<android.telephony.TelephonyManager: java.lang.String getDeviceId()>() in method <cn.jiguang.g.a: java.lang.String e(android.content.Context,java.lang.String)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r4 = virtualinvoke $r3.<android.telephony.TelephonyManager: java.lang.String getSimSerialNumber()>() in method <cn.jiguang.g.a: java.lang.String d(android.content.Context,java.lang.String)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - The sink virtualinvoke $r37.<java.io.OutputStream: void write(byte[])>($r36) in method <cn.jiguang.net.HttpUtils: cn.jiguang.net.HttpResponse a(android.content.Context,cn.jiguang.net.HttpRequest,boolean)> was called with values from the following sources:
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r4 = virtualinvoke $r3.<android.telephony.TelephonyManager: java.lang.String getSubscriberId()>() in method <cn.jiguang.g.a: java.lang.String f(android.content.Context,java.lang.String)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r7 = virtualinvoke $r6.<android.content.pm.PackageManager: java.util.List getInstalledPackages(int)>(0) in method <cn.jiguang.a.a.c.d: java.util.ArrayList a(android.content.Context,boolean)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r2 = virtualinvoke $r8.<android.net.wifi.WifiInfo: java.lang.String getSSID()>() in method <cn.jiguang.a.a.a.c: void a(android.content.Context)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r5 = virtualinvoke $r4.<android.net.wifi.WifiInfo: java.lang.String getMacAddress()>() in method <cn.jiguang.g.a: java.lang.String v(android.content.Context)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r4 = virtualinvoke $r3.<android.telephony.TelephonyManager: java.lang.String getSimSerialNumber()>() in method <cn.jiguang.g.a: java.lang.String d(android.content.Context,java.lang.String)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - The sink virtualinvoke $r0.<android.content.Context: void sendBroadcast(android.content.Intent,java.lang.String)>($r8, $r2) in method <cn.jpush.android.e.a: void b(android.content.Context,android.content.Intent,java.lang.String)> was called with values from the following sources:
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r6 = virtualinvoke $r5.<android.content.pm.PackageManager: java.util.List queryBroadcastReceivers(android.content.Intent,int)>($r4, 0) in method <cn.jpush.android.e.a: java.util.List a(android.content.Context,android.content.Intent,java.lang.String)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - The sink $r7 = virtualinvoke $r4.<android.content.Context: android.content.ComponentName startService(android.content.Intent)>($r6) in method <cn.jiguang.d.i.f: cn.jiguang.d.i.g a(android.content.Context,int,int,cn.jiguang.d.d.a,java.util.HashMap)> was called with values from the following sources:
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r6 = virtualinvoke $r4.<android.content.pm.PackageManager: java.util.List queryIntentServices(android.content.Intent,int)>($r5, 0) in method <cn.jiguang.d.i.h: java.util.ArrayList c(android.content.Context)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - The sink staticinvoke <android.util.Log: int w(java.lang.String,java.lang.String,java.lang.Throwable)>($r5, $r4, $r2) in method <cn.jiguang.e.a: void c(java.lang.String,java.lang.String,java.lang.Throwable)> was called with values from the following sources:
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r9 = virtualinvoke $r6.<android.content.pm.PackageManager: java.util.List queryIntentServices(android.content.Intent,int)>($r8, 512) in method <cn.jiguang.d.i.c: void a(android.content.Context,boolean)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - The sink virtualinvoke $r0.<android.content.Context: void sendBroadcast(android.content.Intent,java.lang.String)>($r7, null) in method <cn.jiguang.g.a: void b(android.content.Context,android.content.Intent,java.lang.String)> was called with values from the following sources:
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r6 = virtualinvoke $r5.<android.content.pm.PackageManager: java.util.List queryBroadcastReceivers(android.content.Intent,int)>($r4, 0) in method <cn.jiguang.g.a: java.util.List a(android.content.Context,android.content.Intent,java.lang.String)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - The sink virtualinvoke $r53.<java.io.DataOutputStream: void write(byte[])>($r55) in method <cn.jiguang.a.a.c.i: cn.jiguang.a.a.c.j a(android.content.Context,java.lang.String,int,long,boolean,java.io.File,java.lang.String)> was called with values from the following sources:
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r4 = virtualinvoke $r3.<android.telephony.TelephonyManager: java.lang.String getSubscriberId()>() in method <cn.jiguang.g.a: java.lang.String f(android.content.Context,java.lang.String)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - - $r4 = virtualinvoke $r3.<android.telephony.TelephonyManager: java.lang.String getSimSerialNumber()>() in method <cn.jiguang.g.a: java.lang.String d(android.content.Context,java.lang.String)>
+[main] INFO soot.jimple.infoflow.android.SetupApplication$InPlaceInfoflow - Data flow solver took 4 seconds. Maximum memory consumption: 858 MB
+[main] INFO soot.jimple.infoflow.android.SetupApplication - Found 40 leaks
+[FlowDroid Timeout Watcher] INFO soot.jimple.infoflow.memory.FlowDroidTimeoutWatcher - FlowDroid timeout watcher terminated
+[FlowDroid Timeout Watcher] INFO soot.jimple.infoflow.memory.FlowDroidTimeoutWatcher - FlowDroid timeout watcher terminated
+date # Sat 17 Oct 2020 09:42:36 AM MDT
