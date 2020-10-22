@@ -36,7 +36,7 @@ pushd tmp > /dev/null
 
 for app in `find $APPS_DIR -name "*.apk" | grep -v '/config'`;
 do
-  LOG_DIR="log/droidsafe/$(echo $app | rev | cut -d '/' -f 2 | rev)";
+  LOG_DIR="../log/droidsafe/$(echo $app | rev | cut -d '/' -f 2 | rev)";
   mkdir -p $LOG_DIR
   echo "date # started at $(date)" > $LOG_DIR/timer.txt
   apk_name=`echo $app | sed 's~.*/\(.*\).apk$~\1~'`
@@ -46,10 +46,11 @@ do
   if [[ -d "droidsafe-gen" ]]; then
     mv droidsafe-gen $LOG_DIR/
   else
-    echo "failed" > $LOG_DIR/result.txt
+    echo "failed" > $LOG_DIR/failed.txt
   fi
 
   echo "date # finished at $(date)" >> $LOG_DIR/timer.txt
+  rm -rf *
 done;
 
 

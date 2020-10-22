@@ -14,10 +14,9 @@ function gather {
 
 function match_tree {
   echo ""
-  echo ""
   gather
   echo ""
   echo ""
 }
 
-paste -d ' ' <(tree -C log) <(match_tree)
+paste -d ' ' <(tree -C log/flowdroid) <(match_tree)
