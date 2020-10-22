@@ -1,7 +1,7 @@
 #!/bin/bash
 
 if [[ -z "$JAVA_HOME" ]]; then
-  export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64
+  export JAVA_HOME=/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.265.b01-1.fc32.x86_64
 fi
 
 if [[ -z "$1" ]]; then
@@ -41,7 +41,7 @@ do
   cmd="java -jar main/build/libs/main.jar 'apk' '$app' '' 1"
   echo $cmd >> $LOG_FILE 2>&1;
   echo $cmd;
-  eval $cmd #>> $LOG_FILE 2>&1;
+  eval $cmd >> $LOG_FILE 2>&1;
   popd > /dev/null;
 
   echo "date # $(date)" >> $LOG_FILE
