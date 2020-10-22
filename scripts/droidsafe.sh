@@ -11,7 +11,7 @@ fi
 
 export ANDROID_SDK_HOME=`realpath android-platforms`
 export DROIDSAFE_SRC_HOME="$(realpath .)/droidsafe-src"
-export DROIDSAFE_MEMORY=32
+export DROIDSAFE_MEMORY=24
 
 if [[ ! -d "android-platforms" ]]; then
   git clone https://github.com/Sable/android-platforms.git
