@@ -32,8 +32,9 @@ if [[ -n "$CLEAN" ]]; then
   rm -rf $LOG_DIR/*
 fi
 
-for app in `find $APPS_DIR -name "*.apk" | grep -v '/config'`;
+for app in `find -L $APPS_DIR -name "*.apk" | grep -v '/config'`;
 do
+  app=`realpath $app`
   LOG_FILE="$LOG_DIR/$(echo $app | rev | cut -d '/' -f 2 | rev).log";
   echo "date # $(date)" > $LOG_FILE
 
