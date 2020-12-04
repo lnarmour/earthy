@@ -5,6 +5,7 @@ import os
 import numpy as np
 from functools import reduce
 from matplotlib import pyplot as plt
+from scipy import stats
 
 class Metric():
 
@@ -85,12 +86,35 @@ def main(script_name, metric_1=None, metric_2=None):
     m2 = metric_index[j]
     axs[-1, j].set_xlabel(m2)
 
-  plt.savefig('all.pdf')
+  plt.savefig('all.png')
 
 
+def do_pearson_corr():
+  metric_defs = init_ini('data.ini')
+  metric_index = {metric_defs[k].id: k for k in metric_defs}
+  if os.getenv('VERBOSE'):
+    for m in metric_defs:
+      print(metric_defs[m])
 
+  data = load_data('data.csv')
 
+  P = 8
 
+  def_pad = max([len(metric_index[i]) for i in range(8)])
+
+  for i in range(P):
+    print('{:{}} |  '.format(metric_index[i], def_pad), end='')
+    for j in range(0, i+1):
+      pc = stats.pearsonr(data[:,i], data[:,j])[0]
+      pad = '' if pc < 0 else ' '
+      print('{}{:.4f}  '.format(pad, pc), end='')
+    print()
+
+  print('{:{}}  {}'.format('', def_pad, '-' * (def_pad + P*9)))
+  print('{:{}}     '.format('', def_pad), end='')
+  for i in range(P):
+    print('{:{}}  '.format(metric_index[i], 7), end='')
+  print()
 
 
 
@@ -104,5 +128,6 @@ def main(script_name, metric_1=None, metric_2=None):
 
 if __name__ == '__main__':
   args = sys.argv
-  main(*args)
+  do_pearson_corr()
+  #main(*args)
 
