@@ -1,7 +1,7 @@
 #!/bin/bash
 
 if [[ -z "$JAVA_HOME" ]]; then
-  export JAVA_HOME=/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.265.b01-1.fc32.x86_64
+  export JAVA_HOME=/usr/lib/jvm/java-1.8.0-openjdk
 fi
 
 if [[ -z "$1" ]]; then
@@ -22,7 +22,7 @@ if [[ ! -d "cryptoguard" ]]; then
 fi
 
 pushd cryptoguard > /dev/null
-gradle build
+gradlew build
 popd > /dev/null
 
 
