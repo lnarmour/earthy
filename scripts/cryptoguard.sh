@@ -39,7 +39,7 @@ do
   echo "date # $(date)" > $LOG_FILE
 
   pushd cryptoguard > /dev/null
-  cmd="java -jar main/build/libs/main.jar 'apk' '$app' '' 1"
+  cmd="java -Xmx8g -jar main/build/libs/main.jar 'apk' '$app' '' 1"
   echo $cmd >> $LOG_FILE 2>&1;
   echo $cmd;
   eval $cmd >> $LOG_FILE 2>&1;
